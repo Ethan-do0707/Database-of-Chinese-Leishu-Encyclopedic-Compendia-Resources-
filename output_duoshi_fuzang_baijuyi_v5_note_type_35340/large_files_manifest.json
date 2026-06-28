@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T16:54:56",
+  "generated_at": "2026-06-28T16:57:03",
   "source_directory": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_baijuyi_v5_note_type_35340",
-  "publication_mode": "small",
+  "publication_mode": "full",
   "small_file_limit_bytes": 52428800,
   "counts": {
     "source_file_count": 51,
@@ -286,12 +286,86 @@
       "size_human": "519.1 MiB"
     }
   ],
-  "lfs_files_copied": [],
+  "lfs_files_copied": [
+    {
+      "name": "similarity_matrix_白氏六帖_x_白居易_poem_float16.npy",
+      "size_bytes": 198186848,
+      "size_human": "189.0 MiB",
+      "sha256": "a4c3876e70d2461c8228d5c24ce284f8db0383d429558a737b2c205022e33b96"
+    },
+    {
+      "name": "vec_baijuyi_line.npy",
+      "size_bytes": 134926464,
+      "size_human": "128.7 MiB",
+      "sha256": "fc19a73a1a08faaf9898e01e47dc792028665309147402760f30c16cc260773f"
+    },
+    {
+      "name": "vec_白氏六帖.npy",
+      "size_bytes": 144752768,
+      "size_human": "138.0 MiB",
+      "sha256": "28950d4a474b06eafd4f3a77b221b1bec3ca2e47d497829f2b9600072b332cbc"
+    },
+    {
+      "name": "vec_白氏六帖_category.npy",
+      "size_bytes": 144752768,
+      "size_human": "138.0 MiB",
+      "sha256": "addfed0c2ad2506bfeb46c44f9697a99026d4d9ec6467c3d4196eadd3d5ca768"
+    },
+    {
+      "name": "vec_白氏六帖_headword.npy",
+      "size_bytes": 144752768,
+      "size_human": "138.0 MiB",
+      "sha256": "064818d1d31ede1f72e707f29b13baca796d2205bb7cdfdf9492d4b7c685a170"
+    },
+    {
+      "name": "vec_白氏六帖_headword_note_combined.npy",
+      "size_bytes": 144752768,
+      "size_human": "138.0 MiB",
+      "sha256": "41acee0c77fb97b6145bba60877b467b03b5893502af25f21904098523862ec8"
+    },
+    {
+      "name": "vec_白氏六帖_note.npy",
+      "size_bytes": 144752768,
+      "size_human": "138.0 MiB",
+      "sha256": "33cdd94c876c3242fbd8278af887d74d67c0b03901979793498894839bc74f7d"
+    },
+    {
+      "name": "白氏六帖_白居易_句级Top20相似度表.xlsx",
+      "size_bytes": 81336810,
+      "size_human": "77.6 MiB",
+      "sha256": "d9e45d7dc638eabca0adaa32bfc57d929b2ba688dc1bc0730dbd28e49aaa1800"
+    },
+    {
+      "name": "白氏六帖_白居易_诗级完整相似度矩阵.xlsx",
+      "size_bytes": 544340731,
+      "size_human": "519.1 MiB",
+      "sha256": "7ab52c8f7dde5d391a85635c3c01637101764cf2597c34e2c2ebd31c4167e904"
+    }
+  ],
   "split_line_matrix": {
     "original_name": "similarity_matrix_白氏六帖_x_白居易_line_float16.npy",
     "original_size_bytes": 2328270008,
     "original_size_human": "2.168 GiB",
     "chunk_size_bytes": 1073741824,
-    "parts": []
+    "parts": [
+      {
+        "part": "large_file_parts/similarity_matrix_白氏六帖_x_白居易_line_float16.npy.part001",
+        "size_bytes": 1073741824,
+        "size_human": "1.000 GiB",
+        "sha256": "32f9f736ef67d7f0e9107e099d69a7ea65ee8e99936bedde2b2091d6bbeffeaf"
+      },
+      {
+        "part": "large_file_parts/similarity_matrix_白氏六帖_x_白居易_line_float16.npy.part002",
+        "size_bytes": 1073741824,
+        "size_human": "1.000 GiB",
+        "sha256": "8a58e6f08b7b7d5647a41625fce3a8bd1b89cb912e3e4d0f3aecc949655401ef"
+      },
+      {
+        "part": "large_file_parts/similarity_matrix_白氏六帖_x_白居易_line_float16.npy.part003",
+        "size_bytes": 180786360,
+        "size_human": "172.4 MiB",
+        "sha256": "5b8e9533685cd068443b73b1376eeb5702f26e1f033fd540c7432c8e2001c49f"
+      }
+    ]
   }
 }
