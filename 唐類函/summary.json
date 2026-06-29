@@ -1,0 +1,12 @@
+{
+  "retrieved_at": "2026-06-29T13:58:44+08:00",
+  "chapter_count": 200,
+  "item_count": 47364,
+  "raw_line_count": 208102,
+  "outputs": {
+    "catalog": "data\\catalog.json",
+    "json_dir": "data\\json",
+    "md_dir": "data\\md",
+    "combined_json": "data\\tang_leihan.json"
+  }
+}
