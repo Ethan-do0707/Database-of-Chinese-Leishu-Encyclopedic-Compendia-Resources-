@@ -1,4 +1,9 @@
 output_duoshi_fuzang_baijuyi_v5_note_type_35340/*.npy filter=lfs diff=lfs merge=lfs -text
 output_duoshi_fuzang_baijuyi_v5_note_type_35340/*.xlsx filter=lfs diff=lfs merge=lfs -text
 output_duoshi_fuzang_baijuyi_v5_note_type_35340/large_file_parts/* filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/*.npy filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/*.xlsx filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/column_index_全唐诗_line.csv filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/column_index_全唐诗_poem.csv filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/quantangshi_poems.jsonl filter=lfs diff=lfs merge=lfs -text
 唐類函/tang_leihan.json filter=lfs diff=lfs merge=lfs -text

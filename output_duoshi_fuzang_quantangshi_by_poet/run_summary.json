@@ -1,0 +1,75 @@
+{
+  "poem_jsonl": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\quantangshi_poems.jsonl",
+  "source_commit": "3f3039bbeb18111247e41ec67b62042c936da46e",
+  "output_dir": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet",
+  "leishu_vectors": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_baijuyi_v5_note_type_35340\\vec_白氏六帖.npy",
+  "leishu_index": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_baijuyi_v5_note_type_35340\\row_index_白氏六帖.csv",
+  "matrix_dtype_for_estimate": "float16",
+  "unit_max_length": 64,
+  "unit_pretruncate_chars": 128,
+  "poem_mode": "from_line_best1",
+  "candidate_filter": {
+    "enabled": true,
+    "ngram": 3,
+    "leishu_ngram_count": 396689,
+    "source_line_units": 437491,
+    "candidate_line_units": 11275,
+    "candidate_rate": 0.025771958737436883
+  },
+  "counts": {
+    "leishu_entries": 35340,
+    "source_poem_records": 41734,
+    "poem_units": 41734,
+    "line_units": 11275,
+    "all_line_units_before_candidate_filter": 437491,
+    "unique_poets": 2492,
+    "poem_dense_matrix_gb_estimate": 2.7472,
+    "line_dense_matrix_gb_estimate": 0.7422
+  },
+  "model": "C:\\duoshi\\models\\base_model\\embedding\\bge-large-zh-v1.5",
+  "embedding_dim": 1024,
+  "method": "note_type_aware_leishu_vectors + streaming line best1 by poet",
+  "thresholds": {
+    "poem_p90": 0.751183,
+    "poem_p95": 0.783411,
+    "line_p90": 0.741651,
+    "line_p95": 0.772558
+  },
+  "score_stats": {
+    "line": {
+      "count": 11275,
+      "mean": 0.660581,
+      "median": 0.656708,
+      "p75": 0.698127,
+      "p90": 0.741651,
+      "p95": 0.772558,
+      "p99": 0.838006,
+      "max": 0.977369,
+      "ge_08": 302
+    },
+    "poem": {
+      "count": 8125,
+      "mean": 0.666529,
+      "median": 0.662364,
+      "p75": 0.706068,
+      "p90": 0.751183,
+      "p95": 0.783411,
+      "p99": 0.847007,
+      "max": 0.977369,
+      "ge_08": 277
+    }
+  },
+  "rate_min_lines": 50,
+  "rate_min_poems": 10,
+  "elapsed_seconds": 872.46,
+  "artifacts": {
+    "poet_summary_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\白氏六帖_全唐诗_诗人互文统计.csv",
+    "category_stats_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\白氏六帖_全唐诗_诗人部类高值统计.csv",
+    "line_examples_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\白氏六帖_全唐诗_句级代表样本.csv",
+    "poem_examples_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\白氏六帖_全唐诗_诗级代表样本.csv",
+    "poem_best1_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\全唐诗_poem_from_line_best1.csv",
+    "line_best1_csv": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\全唐诗_line_best1.csv",
+    "line_vectors": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\vec_quantangshi_line_candidate_ngram3.npy",
+    "workbook": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\白氏六帖_全唐诗_诗人互文统计.xlsx"
+  }
+}

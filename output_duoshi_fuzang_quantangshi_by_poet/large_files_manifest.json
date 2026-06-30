@@ -1,0 +1,40 @@
+{
+  "directory": "output_duoshi_fuzang_quantangshi_by_poet",
+  "created_date": "2026-06-30",
+  "source_repository": "Ethan-do0707/tang_poetry",
+  "source_commit": "3f3039bbeb18111247e41ec67b62042c936da46e",
+  "method": "candidate_ngram3_recall_plus_duoshi_rerank",
+  "lfs_policy": "本目录中较大的索引、JSONL、向量与工作簿文件建议通过 Git LFS 发布，以减少普通 Git 对象体积。",
+  "large_files": [
+    {
+      "path": "column_index_全唐诗_line.csv",
+      "bytes": 59717315,
+      "description": "《全唐诗》全量句级单位索引。"
+    },
+    {
+      "path": "vec_quantangshi_line_candidate_ngram3.npy",
+      "bytes": 46182528,
+      "description": "3-gram 候选句级单位的多识向量。"
+    },
+    {
+      "path": "column_index_全唐诗_poem.csv",
+      "bytes": 20895337,
+      "description": "《全唐诗》诗级单位索引。"
+    },
+    {
+      "path": "quantangshi_poems.jsonl",
+      "bytes": 18954939,
+      "description": "由 tang_poetry.sql 转换出的《全唐诗》诗作 JSONL。"
+    },
+    {
+      "path": "白氏六帖_全唐诗_诗人互文统计.xlsx",
+      "bytes": 473144,
+      "description": "诗人互文统计综合工作簿。"
+    }
+  ],
+  "notes": [
+    "本结果为候选召回版，不是《全唐诗》全量句级语义矩阵。",
+    "句级候选单位为 11275 条，占全部 437491 条句级单位约 2.58%。",
+    "候选阈值采用候选集内部经验分位，句级 p90 为 0.741651，句级 p95 为 0.772558。"
+  ]
+}
