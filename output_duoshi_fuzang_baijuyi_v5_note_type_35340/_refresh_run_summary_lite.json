@@ -1,9 +1,0 @@
-{
-  "leishu_entries": 35340,
-  "poem_normalized_units": 2804,
-  "leishu_embedding_strategy_method": "note_type_aware_channels",
-  "line_matrix_shape": [
-    35340,
-    32941
-  ]
-}
