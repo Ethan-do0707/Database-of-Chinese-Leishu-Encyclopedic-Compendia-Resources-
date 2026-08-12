@@ -1,0 +1,21 @@
+{
+  "started": "2026-08-12T17:00:13+08:00",
+  "completed": "2026-08-12T17:03:18+08:00",
+  "python": "C:\\duoshi_web\\.venv\\Scripts\\python.exe",
+  "model_root_argument": "C:\\duoshi_web",
+  "resolved_embedding_model": "C:\\duoshi_web\\duoshi\\models\\fine_tuned\\bge-large-zh-v1.5",
+  "model_weight_sha256": "7dbcea21e143a9730e5ed21151bf68c02b6855397840b4f8a98f8246f233b219",
+  "script": ".\\scripts\\analyze_duoshi_fuzang_quantangshi_by_poet.py",
+  "output_dir": ".\\output_duoshi_fuzang_quantangshi_by_poet",
+  "candidate_ngram": 3,
+  "batch_size": 64,
+  "sim_batch_size": 4096,
+  "unit_max_length": 64,
+  "pretruncate_chars": 128,
+  "leishu_max_length": 128,
+  "poem_mode": "from_line_best1",
+  "reuse_embeddings": true,
+  "vector_cache_reuse_audited": true,
+  "embedding_reuse_audit": ".\\output_duoshi_fuzang_quantangshi_by_poet\\duoshi_web_quantangshi_encoder_equivalence.json",
+  "note": "类书分通道向量与《全唐诗》候选句向量已通过抽样数值等价性审计；本目录刷新重建类书行索引与合成向量，复用审计通过的缓存向量并重算 best1 与派生统计。"
+}

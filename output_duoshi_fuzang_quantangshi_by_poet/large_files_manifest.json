@@ -1,0 +1,96 @@
+{
+  "directory": "output_duoshi_fuzang_quantangshi_by_poet",
+  "created_date": "2026-08-12",
+  "source_repository": "Ethan-do0707/tang_poetry",
+  "source_commit": "3f3039bbeb18111247e41ec67b62042c936da46e",
+  "model": "C:\\duoshi_web\\duoshi\\models\\fine_tuned\\bge-large-zh-v1.5",
+  "model_weight_sha256": "7dbcea21e143a9730e5ed21151bf68c02b6855397840b4f8a98f8246f233b219",
+  "embedding_reuse_provenance": {
+    "audit_path": "D:\\中大中文系工作相关\\論文發表與投稿\\大语言模型的白氏六帖\\output_duoshi_fuzang_quantangshi_by_poet\\duoshi_web_quantangshi_encoder_equivalence.json",
+    "reuse_enabled": true,
+    "reuse_reason": "当前指定模型与既有缓存向量通过抽样数值等价性审计；复用缓存不会改变相似度与派生统计。",
+    "all_channels_equivalent": true,
+    "equivalence_rule": "类书四通道、类书合成向量与《全唐诗》候选句向量抽样均满足 rtol=1e-5、atol=1e-5。",
+    "sample_size_per_channel": 64,
+    "model_weight_sha256": "7dbcea21e143a9730e5ed21151bf68c02b6855397840b4f8a98f8246f233b219"
+  },
+  "method": "candidate_ngram3_recall_plus_duoshi_web_rerank",
+  "lfs_policy": "本目录中较大的索引、JSONL、向量与工作簿文件建议通过 Git LFS 发布，以减少普通 Git 对象体积。",
+  "large_files": [
+    {
+      "path": "column_index_全唐诗_line.csv",
+      "bytes": 59717315,
+      "description": "《全唐诗》全量句级单位索引。"
+    },
+    {
+      "path": "column_index_全唐诗_line_candidate_ngram3.csv",
+      "bytes": 1807052,
+      "description": "生成的数据文件。"
+    },
+    {
+      "path": "column_index_全唐诗_poem.csv",
+      "bytes": 20895337,
+      "description": "《全唐诗》诗级单位索引。"
+    },
+    {
+      "path": "quantangshi_poems.jsonl",
+      "bytes": 18954939,
+      "description": "由 tang_poetry.sql 转换出的《全唐诗》诗作 JSONL。"
+    },
+    {
+      "path": "row_index_白氏六帖.csv",
+      "bytes": 17695312,
+      "description": "《白氏六帖》类书侧行索引，含注文解析、通道权重与计算策略。"
+    },
+    {
+      "path": "vec_quantangshi_line_candidate_ngram3.npy",
+      "bytes": 46182528,
+      "description": "3-gram 候选句级单位的多识向量。"
+    },
+    {
+      "path": "vec_白氏六帖.npy",
+      "bytes": 144752768,
+      "description": "《白氏六帖》合成向量。"
+    },
+    {
+      "path": "vec_白氏六帖_category.npy",
+      "bytes": 144752768,
+      "description": "《白氏六帖》部类通道向量。"
+    },
+    {
+      "path": "vec_白氏六帖_headword.npy",
+      "bytes": 144752768,
+      "description": "《白氏六帖》词条通道向量。"
+    },
+    {
+      "path": "vec_白氏六帖_headword_note_combined.npy",
+      "bytes": 144752768,
+      "description": "《白氏六帖》补足下文整体通道向量。"
+    },
+    {
+      "path": "vec_白氏六帖_note.npy",
+      "bytes": 144752768,
+      "description": "《白氏六帖》注文通道向量。"
+    },
+    {
+      "path": "全唐诗_line_best1.csv",
+      "bytes": 4571032,
+      "description": "生成的数据文件。"
+    },
+    {
+      "path": "全唐诗_poem_from_line_best1.csv",
+      "bytes": 3398483,
+      "description": "生成的数据文件。"
+    },
+    {
+      "path": "白氏六帖_全唐诗_诗人互文统计.xlsx",
+      "bytes": 473169,
+      "description": "诗人互文统计综合工作簿。"
+    }
+  ],
+  "notes": [
+    "本结果为候选召回版，不是《全唐诗》全量句级语义矩阵。",
+    "句级候选单位为 11275 条，占全部 437491 条句级单位约 2.58%。",
+    "候选阈值采用候选集内部经验分位，句级 p90 为 0.741651，句级 p95 为 0.772558。"
+  ]
+}

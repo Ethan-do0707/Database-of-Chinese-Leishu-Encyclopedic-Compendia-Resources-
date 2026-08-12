@@ -6,4 +6,5 @@ output_duoshi_fuzang_quantangshi_by_poet/*.xlsx filter=lfs diff=lfs merge=lfs -t
 output_duoshi_fuzang_quantangshi_by_poet/column_index_全唐诗_line.csv filter=lfs diff=lfs merge=lfs -text
 output_duoshi_fuzang_quantangshi_by_poet/column_index_全唐诗_poem.csv filter=lfs diff=lfs merge=lfs -text
 output_duoshi_fuzang_quantangshi_by_poet/quantangshi_poems.jsonl filter=lfs diff=lfs merge=lfs -text
+output_duoshi_fuzang_quantangshi_by_poet/row_index_白氏六帖.csv filter=lfs diff=lfs merge=lfs -text
 唐類函/tang_leihan.json filter=lfs diff=lfs merge=lfs -text

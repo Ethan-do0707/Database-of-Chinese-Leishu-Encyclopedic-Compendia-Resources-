@@ -1,0 +1,501 @@
+﻿作者规范,题目,text,best_similarity,六帖卷,六帖部类,六帖词条,六帖解析注文,注文计算策略
+佚名,郊庙歌辞。梁太庙乐舞辞。送神,黍稷非馨,0.977369,二十,黍稷,黍稷非馨,,weighted_channels_untyped_fallback
+张衮,梁郊祀乐章。庆肃,黍稷非馨,0.977369,二十,黍稷,黍稷非馨,,weighted_channels_untyped_fallback
+张衮,郊庙歌辞。梁郊祀乐章。庆肃,黍稷非馨,0.977369,二十,黍稷,黍稷非馨,,weighted_channels_untyped_fallback
+裴潾,前相国赞皇公早葺平泉山居暂还憩…十四首奉寄,泣涕如雨,0.975002,十九,哭,泣涕如雨,,weighted_channels_untyped_fallback
+佚名,明皇祀圜丘乐章。舒和,祀事孔明,0.972149,二十,祭祀,祀事孔明,,weighted_channels_untyped_fallback
+归登,郊庙歌辞。享惠昭太子庙乐章。请神,祀事孔明,0.972149,二十,祭祀,祀事孔明,,weighted_channels_untyped_fallback
+归登,享惠昭太子庙乐章（请神）,祀事孔明,0.972149,二十,祭祀,祀事孔明,,weighted_channels_untyped_fallback
+张九龄,南郊文武出入舒和之乐,祀事孔明,0.972149,二十,祭祀,祀事孔明,,weighted_channels_untyped_fallback
+王晙,祭汾阴乐章。太和,降福穰穰,0.97074,二十七,禍福,降福穰穰,,weighted_channels_untyped_fallback
+王晙,郊庙歌辞。祭汾阴乐章。太和,降福穰穰,0.97074,二十七,禍福,降福穰穰,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。太清宫乐章。登歌,降福穰穰,0.97074,二十七,禍福,降福穰穰,,weighted_channels_untyped_fallback
+陈叔达,太庙祼地歌辞,降福穰穰,0.97074,二十七,禍福,降福穰穰,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。周宗庙乐舞辞。明德舞,工祝致告,0.962769,二十,祝史,工祝致告,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。昭德皇后庙乐章。寿和,工祝致告,0.962769,二十,祝史,工祝致告,,weighted_channels_untyped_fallback
+元希声,赠皇甫侍御赴都八首,道心惟微,0.961085,二十六,道教,道心惟微,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。释奠文宣王乐章。雍和,明德惟馨,0.96043,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+皎然,讲德联句,明德惟馨,0.96043,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+于邵,释奠武成王乐章。迎神,感而遂通,0.9508,二十七,鬼神,感而遂通,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。释奠武成王乐章。迎神,感而遂通,0.9508,二十七,鬼神,感而遂通,,weighted_channels_untyped_fallback
+卢肇,汉堤诗,不日不月,0.950043,十,行旅,不日不月,,weighted_channels_untyped_fallback
+张九龄,奉和圣制烛龙斋祭,六月徂暑,0.947344,一,夏,徂暑,六月徂暑。,weighted_channels
+佚名,郊庙歌辞。享太庙乐章。升和,夕惕若厉,0.945914,八 （凡七十九門 內二十六門附）,慎,夕惕若厲,,weighted_channels_untyped_fallback
+白居易,三谣。朱藤谣,直如朱绳,0.925862,八 （凡七十九門 內二十六門附）,直,直如朱絲繩,,weighted_channels_untyped_fallback
+李瀚,蒙求,耿恭拜井,0.921941,八 （凡七十九門 內二十六門附）,信,耿恭拜井,《後漢》：耿恭，字伯宗。守疎勒城，城中無水，穿井十丈，無水，恭整衣冠，拜井，泉涌出。,weighted_channels_with_book_title_stats
+临淄县主,与独孤穆冥会诗,死生契阔,0.917582,十九,死,死生契闊,,weighted_channels_untyped_fallback
+吴筠,览古十四首,知进不知退,0.915111,七,貴,知進而不知退,,weighted_channels_untyped_fallback
+鲍溶,夏日华山别韩博士愈,夏日可畏时,0.915054,一,夏,夏日可畏,,weighted_channels_untyped_fallback
+吴融,李周弹筝歌（淮南韦太尉席上赠）,竹不如肉,0.91502,十八,女樂,竹不如肉,桓溫問孟嘉曰：「聽妓，絲不如竹，竹不如肉，何也？」嘉曰：「漸近自然。,weighted_channels
+张九龄,和裴侍中承恩拜扫旋辔途中有怀…官僚乡国亲故（后缺）,移孝入为忠,0.913893,八 （凡七十九門 內二十六門附）,忠孝,移孝為忠,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。禅社首乐章。雍和,惟德惟馨,0.91163,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+贺知章,唐禅社首乐章。雍和,惟德惟馨,0.91163,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+曹邺,赵城怀古,一笑千万金,0.910702,七,笑,一笑千金,,weighted_channels_untyped_fallback
+吴筠,建业怀古,在德不在险,0.910235,十六,險固,在德不在險,《史記》魏武侯曰：「美哉山河之固，此乃魏之寶也。」吳起曰：「在德不在險，昔三苗左洞庭，右彭𧋠，德義不修而禹滅之；夏桀之居，左濟河，右太菙，侯闕在其南，羊腸在其北，脩政不仁，而湯放之；殷紂之國，左孟門，右太行，常山在其北，太行經其南，不修德政，武王殺之。由此言之，在德不在險。」武侯曰：「善哉。」,weighted_channels_with_book_title_stats
+张九龄,奉和圣制度潼关口号,在德不在险,0.910235,十六,險固,在德不在險,《史記》魏武侯曰：「美哉山河之固，此乃魏之寶也。」吳起曰：「在德不在險，昔三苗左洞庭，右彭𧋠，德義不修而禹滅之；夏桀之居，左濟河，右太菙，侯闕在其南，羊腸在其北，脩政不仁，而湯放之；殷紂之國，左孟門，右太行，常山在其北，太行經其南，不修德政，武王殺之。由此言之，在德不在險。」武侯曰：「善哉。」,weighted_channels_with_book_title_stats
+孙思邈,四言诗,宛其死矣,0.909358,十九,死,宛其死矣,《詩》。,weighted_channels_with_book_title_stats
+佚名,郊庙歌辞。周宗庙乐舞辞。肃雍舞,以妥以侑,0.907102,二十,侑,以妥以侑,《詩》。,weighted_channels_with_book_title_stats
+王绩,薛记室收过庄见寻率题古意以赠,朽木不可雕,0.904409,二十四,材木,朽木不可彫,,weighted_channels_untyped_fallback
+韦表微,池州夫子庙麟台,吁嗟麟兮,0.901622,二十九,麟,于嗟麟兮,,weighted_channels_untyped_fallback
+杜荀鹤,将归山逢友人,儒为君子儒,0.900229,二十六,儒教,君子之儒,子謂子夏，曰：「汝為君子儒，無為小人儒。,weighted_channels
+白居易,秦中吟十首。不致仕（一作合致仕）,七十而致仕,0.89608,十七,致仕,七十致仕,還君事也。,weighted_channels
+白居易,洛中偶作（自此后在东都作）,不知老将至,0.89456,十七,老,不知老之將至,,weighted_channels_untyped_fallback
+高適,奉酬睢阳李太守,衣赠黑貂裘,0.893403,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+杜光庭,纪道德,百姓日用而不知,0.891481,十二,國政,百姓日用而不知。,,weighted_channels_untyped_fallback
+贯休,村行遇猎,我闻天地之大德曰生,0.888025,二十七,造化,天地之大德曰生,,weighted_channels_untyped_fallback
+杜甫,送高三十五书记,人实不易知,0.886258,十二,知人,人不易知，,,weighted_channels_untyped_fallback
+杜甫,病橘,虽多亦奚为,0.882687,十七,過禮,雖多奚以為,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。后唐宗庙乐舞辞。应天舞,惟德是辅,0.881961,八 （凡七十九門 內二十六門附）,德,皇天無親，,惟德是輔。,parallel_note_focused
+张九龄,奉和圣制喜雨,惟德之馨,0.877932,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+卢仝,月蚀诗,五色令人目盲,0.876619,九,視,五色令人目盲。,,weighted_channels_untyped_fallback
+卢仝,有所思,美人兮美人,0.876528,七,美婦人,彼美人兮,,weighted_channels_untyped_fallback
+卢仝,乐府杂曲。鼓吹曲辞。有所思,美人兮美人,0.876528,七,美婦人,彼美人兮,,weighted_channels_untyped_fallback
+佚名,沈亚之,伐木丁丁,0.876387,二十四,材木,伐木丁丁,聲也。,weighted_channels
+白居易,狂歌词,五十已后衰,0.875658,十七,老,五十始衰,,weighted_channels_untyped_fallback
+贯休,大蜀皇帝寿春节进尧铭舜颂二首。舜颂,五典克从,0.871803,二十一,宰相,百揆時序,五典克從。,parallel_note_focused
+温庭筠,蕃女怨,飞雪千里,0.871343,一,雪,飛雪千里,《楚辭》。,book_title_stats_only_weighted_fallback
+宋之问,送姚侍御出使江东,饮冰朝受命,0.871035,十,奉使,朝受命而夕飲冰,,weighted_channels_untyped_fallback
+白居易,和答诗十首。答箭镞,盗心憎主人,0.870539,二十八,竊盜,盜憎主人,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。后唐宗庙乐舞辞。文明舞,信及豚鱼,0.870291,二十九,豬,信及豚魚,《易．中孚》卦。妖《傳》：齊侯田于貝丘，見大豕，人立。從者曰：「彭生也。公怒射之，豕人立而啼。公乃懼之。,weighted_channels_with_book_title_stats
+顾况,上古之什补亡训传十三章。陵霜之华一章,五星如珠,0.869718,一,星,五星如連珠,,weighted_channels_untyped_fallback
+赵光逢,梁郊祀乐章。庆和,禋于六宗,0.869655,二十,祭星,禋于六宗,孔安國曰：四時也。寒暑也，日也，月也，星辰也，水旱也。,weighted_channels
+赵光逢,郊庙歌辞。梁郊祀乐章。庆和,禋于六宗,0.869655,二十,祭星,禋于六宗,孔安國曰：四時也。寒暑也，日也，月也，星辰也，水旱也。,weighted_channels
+储光羲,述华清宫五首,五城十二楼,0.869222,二,崑崙山,五城十二樓,又曰：「崑崙之墟，五城十二樓，河水出，四維魚龍。」,weighted_channels
+刘复,游仙,五城十二楼,0.869222,二,崑崙山,五城十二樓,又曰：「崑崙之墟，五城十二樓，河水出，四維魚龍。」,weighted_channels
+唐彦谦,望岳时贼据华夏,削成绝壁五千仞,0.868949,二,華山,削成五千仞,《山海經》：「華山削成而四方，高五千仞，其廣千里。」,weighted_channels_with_book_title_stats
+张说,唐享太庙乐章。文舞,克配彼天,0.867681,二十,郊天,思文后稷,克配彼天。,parallel_note_focused
+佚名,郊庙歌辞。享太庙乐章。文舞,克配彼天,0.867681,二十,郊天,思文后稷,克配彼天。,parallel_note_focused
+司空图,诗品二十四则。清奇,可人如玉,0.865515,六,美人,如玉,有佳人，美者顔如玉,weighted_channels_cross_reference
+孟郊,吊江南老家人春梅,胡为乎泥中,0.865447,三,道路,胡為泥中,,weighted_channels_untyped_fallback
+卢鸿一,嵩山十志十首。草堂,将以避燥湿,0.864592,三,宅,以避燥濕,子罕曰：「吾儕小人皆有闔廬，以避燥濕寒暑。」,weighted_channels
+刘行敏,又嘲杨文瓘,终宴不知疲,0.864419,十七,宴,終宴不知疲,《文選》。,book_title_stats_only_weighted_fallback
+郑谷,故少师从翁隐岩别墅乱后榛芜感旧怆怀遂有追纪,忠为社稷臣,0.864149,八 （凡七十九門 內二十六門附）,忠,社稷臣,漢文帝目送絳侯曰：「社稷臣袁盎。」曰：「功臣非社稷臣也。社稷臣者，主存與存，主亡與亡。諸呂用事，絳侯為太尉，本柄不正，共誅諸呂，適會功成。故曰功臣。」,weighted_channels
+孟浩然,白云先生王迥见访,手持白羽扇,0.860818,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+元稹,望云骓马歌,功成事遂身退天之道,0.859346,十七,致仕,功成名遂身退，天之道,,weighted_channels_untyped_fallback
+李白,相和歌辞。君道曲,如心之使臂,0.858565,九,手,如臂之使手,,weighted_channels_untyped_fallback
+李白,君道曲（梁之雅歌有五篇，今作一章）,如心之使臂,0.858565,九,手,如臂之使手,,weighted_channels_untyped_fallback
+于濆,野蚕,化为寒者衣,0.85755,四,衣服,寒者衣之,,weighted_channels_untyped_fallback
+白居易,道州民－美臣遇明主也,民到于今受其赐,0.85439,二十四,開鑿,受賜,民到于今受其賜。,headword_note_combined
+陆龟蒙,奉和袭美太湖诗二十首。太湖石,玲珑五明扇,0.851597,四,扇,五明扇,崔豹《古今注》曰：「舜廣視聽求賢人，以自輔作五明扇。,weighted_channels_with_book_title_stats
+张说,岳州夜坐,五十知天命,0.850729,十七,老,孔子五十而知天命。,,weighted_channels_untyped_fallback
+卢照邻,咏史四首,一为侍御史,0.84867,二十一,御史,柱下史,侍御史。,parallel_note_focused
+杜甫,壮游,欲罢不能忘,0.848644,二十六,勤學,欲罷不能,,weighted_channels_untyped_fallback
+李白,赠瑕丘王少府,来作南昌尉,0.847301,二十六,吏隱,南昌尉,梅福子真為南昌尉，時人謂之神仙之吏。,weighted_channels
+杜甫,奉送王信州崟北归,寒腻黑貂裘,0.846075,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+张九龄,奉和圣制幸晋阳宫,一月朔巡狩,0.84574,十一,巡狩,朔巡,十有一月朔巡狩至于北岳如西禮朔北也,weighted_channels
+白居易,截树,人各有偏好,0.844809,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+杜甫,八哀诗。故司徒李公光弼,平生白羽扇,0.84457,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+白居易,七年春题府厅,示耻用蒲鞭,0.843944,八 （凡七十九門 內二十六門附）,寬恕,蒲鞭示恥,,weighted_channels_untyped_fallback
+储光羲,同王十三维偶然作十首,虽若不能言,0.843849,九,言語,似不能言,,weighted_channels_untyped_fallback
+顾况,宜城放琴客歌（柳浑封宜城县伯）,七十非人不暖热,0.842411,十七,老,七十非帛不暖,,weighted_channels_untyped_fallback
+卢仝,蜻蜓歌（黄河中蜻蜓，其力小，犯险无溺）,进寸退尺莫能度,0.842291,四,度,進寸退尺,《老子》曰：「不敢進寸退尺。」,weighted_channels_with_book_title_stats
+独孤及,送陈兼应辟兼寄高適、贾至,凤凰翔千仞,0.841508,二十九,鳳,翔千仞,《文》：鳳皇翔干千仞兮，覽德輝而下之。見細德之險微兮，搖增翮而去。,weighted_channels_with_book_title_stats
+武元衡,德宗皇帝挽歌词三首,星拱北辰箓,0.841132,一,星,拱北辰,《語》：為政以德，譬如北辰。居其所，眾星拱之。,weighted_channels_with_book_title_stats
+吕岩,谷神歌,谷神不死此中求,0.840476,二十六,養生,谷神不死,,weighted_channels_untyped_fallback
+武昌妓,续韦蟾句,悲莫悲兮生别离,0.840199,十,離别,悲莫悲於生別離,《楚辭》。,book_title_stats_only_weighted_fallback
+陆龟蒙,紫溪翁歌,吾不知所以然而然,0.839724,八 （凡七十九門 內二十六門附）,命運,不知所以然而然,,weighted_channels_untyped_fallback
+白居易,池上寓兴二绝,似是而非谁得知,0.839566,二十八,竊盜,似是而非,,weighted_channels_untyped_fallback
+骆宾王,送郭少府探得忧字,龙门竹箭流,0.838487,二,河,竹箭流,《慎子》曰：「河下龍門流駛，竹箭駟馬追之，不及。,weighted_channels_with_book_title_stats
+孟郊,塘下行,徒将白羽扇,0.838187,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+佚名,郊庙歌辞。享太庙乐章。太和,在貌思恭,0.838006,八 （凡七十九門 內二十六門附）,恭敬,事思敬,貌思恭。,parallel_note_focused
+张说,唐享太庙乐章。太和,在貌思恭,0.838006,八 （凡七十九門 內二十六門附）,恭敬,事思敬,貌思恭。,parallel_note_focused
+李白,对酒,自古帝王宅,0.83794,三,西京,帝王之宅,崤函作帝王之宅。,weighted_channels
+李白,相和歌辞。对酒二首,自古帝王宅,0.83794,三,西京,帝王之宅,崤函作帝王之宅。,weighted_channels
+张说,古泉驿,乐亦在其中,0.837708,七,貧,樂在其中矣,飲水，曲肱而枕之，樂亦在其中矣！,weighted_channels
+皎然,哭吴县房耸明府,夫子寡兄弟,0.837343,六,兄弟,寡兄弟,子路曰：「吾寡兄弟而不忍除也。姊喪,weighted_channels
+崔玄童,郊庙歌辞。祭汾阴乐章。肃和,明德惟聪,0.837281,八 （凡七十九門 內二十六門附）,德,德明惟明,,weighted_channels_untyped_fallback
+崔玄童,祭汾阴乐章,明德惟聪,0.837281,八 （凡七十九門 內二十六門附）,德,德明惟明,,weighted_channels_untyped_fallback
+李白,游泰山六首（天宝元年四月从故御道上泰山）,稽首再拜之,0.837274,七,拜揖,大夫稽首再拜君答拜之,《禮》無不答,book_title_stats_only_weighted_fallback
+白居易,采诗官－监前王乱亡之由也,君之门兮九重閟,0.836644,三,門戶,九重,《楚辭》曰：「君之門兮！九重。,weighted_channels_with_book_title_stats
+刘长卿,酬张夏雪夜赴州访别途中苦寒作,不惮苦寒行,0.836255,一,寒,苦寒行,魏武《苦寒行》曰：「人馬同時飢，擔囊行取薪，斧冰持作糜。」糜，粥也。,weighted_channels_with_book_title_stats
+白居易,朱陈村,死者不远葬,0.83576,十九,葬,袝葬者不筮宅,謂袝先塋，不改十墓也。,weighted_channels
+刘商,乌夜啼（一作乌栖曲）,月中有桂树,0.835503,三十,桂,月中有仙桂樹一枝,晉郤詵對武帝曰：「臣對策為天下第一，猶桂林一枝也。,weighted_channels
+权德舆,古兴,月中有桂树,0.835503,三十,桂,月中有仙桂樹一枝,晉郤詵對武帝曰：「臣對策為天下第一，猶桂林一枝也。,weighted_channels
+佚名,封泰山乐章。寿和,孝天下臣,0.83514,八 （凡七十九門 內二十六門附）,天子孝,孝理天下,先王之以孝治天下也。故得萬國之歡心，是以天下和平，災害不生。,weighted_channels
+吴筠,高士咏。臧丈人,功成遂不处,0.834573,十四,讓功,功成不居,,weighted_channels_untyped_fallback
+李颀,王母歌,为看青玉五枝灯,0.834233,四,燈燭,青玉五枝燈,《西京雜記》曰：「高祖入咸陽宮，秦有青玉五枝燈，高七尺五寸，有蟠螭口銜燈，然之，鱗甲皆動，煥炳列星。,weighted_channels_with_book_title_stats
+李白,经乱离后天恩流夜郎忆旧游书怀赠江夏韦太守良宰,安得羿善射,0.833703,二十五,射,羿善射不得其死焉,,weighted_channels_untyped_fallback
+白居易,鹤,人各有所好,0.833352,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+邵谒,送从弟长安下第南归觐亲,戴天如戴盆,0.832851,一,天,戴盆,多謝悠悠子，瞻天如戴盆。,weighted_channels
+杜甫,述古三首,秦时任商鞅,0.832576,十三,改制灋令,自敝。,商鞅。,parallel_note_focused
+李白,送舍弟,应得池塘生春草,0.832501,三十,草,池塘生春草,,weighted_channels_untyped_fallback
+贾岛,让纠曹上乐使君,犹如履薄冰,0.83137,一,冰,履薄,戰戰兢兢，如履薄冰。,weighted_channels
+窦庠,于阗钟歌送灵彻上人归越（钟在越灵嘉寺，从天竺飞来）,一国之人皆若狂,0.831326,八 （凡七十九門 內二十六門附）,傲慢,一國之人皆若狂。,,weighted_channels_untyped_fallback
+孟郊,张徐州席送岑秀才,久要不可忘,0.831317,十,怨棄,久要不忘平生,,weighted_channels_untyped_fallback
+张九龄,感遇十二首,汉上有游女,0.831171,二,漢,游女,《詩》：漢有游女，不可求思。,weighted_channels_with_book_title_stats
+顾况,曲龙山歌,乘桴浮于海,0.830894,二,海,桴浮,子曰：「道不行，乘桴浮于海。」,weighted_channels
+白居易,访陶公旧宅,口终不能言,0.830862,九,言語,似不能言,,weighted_channels_untyped_fallback
+张祜,投常州从兄中丞,今闻虎渡江,0.830166,二十一,刺史,虎渡江,宋均叔庠為九江守多暴虎。先是設檻捕之，猶多傷害。均下記，曰：「虎豹在山。云云。去檻阱，人人相傳。虎東渡江而去。,weighted_channels
+卢仝,自君之出矣,玉是君之德,0.830086,二,玉,玉德,子貢問於孔子曰：「敢問君子貴玉而賤碈者，何也？為玉之寡，而碈之多與？」孔子曰：「非為碈之多，故賤之也。玉之寡，故貴之也。夫昔者，君子比德於玉焉，溫潤而澤仁也。縝密以栗智也，廉而不劌義也，垂之如墜，禮也。叩之其聲清越，以長其終，詘然樂也，瑕不揜瑜，瑜不揜瑕，忠也。孚尹旁達，信也。氣如白虹，天也。精神見于山川，地也。圭璋時達，德也。天下莫不貴者，道也。故君子貴之也。」,weighted_channels
+卢仝,杂曲歌辞。自君之出矣,玉是君之德,0.830086,二,玉,玉德,子貢問於孔子曰：「敢問君子貴玉而賤碈者，何也？為玉之寡，而碈之多與？」孔子曰：「非為碈之多，故賤之也。玉之寡，故貴之也。夫昔者，君子比德於玉焉，溫潤而澤仁也。縝密以栗智也，廉而不劌義也，垂之如墜，禮也。叩之其聲清越，以長其終，詘然樂也，瑕不揜瑜，瑜不揜瑕，忠也。孚尹旁達，信也。氣如白虹，天也。精神見于山川，地也。圭璋時達，德也。天下莫不貴者，道也。故君子貴之也。」,weighted_channels
+皎然,因游支硎寺寄邢端公,诗题白羽扇,0.829892,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+贾岛,送僧,日午游都市,0.829886,二十四,商賈,日游都市,,weighted_channels_untyped_fallback
+张九龄,登荆州城楼,来参竹使符,0.829882,四,印綬,竹使符,竹符五枚，長五寸。錐畫篆書，一至五，以代古之珪璋。,weighted_channels
+成真人,题壁,本拟白日升天,0.829405,二十六,仙,白日升天,,weighted_channels_untyped_fallback
+卢仝,萧宅二三子赠答诗二十首。客谢井,改邑不改井,0.82912,三,井,改井,《易》：改邑不改井。,weighted_channels_with_book_title_stats
+顾云,天威行,耿恭拜出井底水,0.828477,八 （凡七十九門 內二十六門附）,信,耿恭拜井,《後漢》：耿恭，字伯宗。守疎勒城，城中無水，穿井十丈，無水，恭整衣冠，拜井，泉涌出。,weighted_channels_with_book_title_stats
+白居易,和答诗十首。和阳城驿,往者不可追,0.828468,二十八,悔恨,往者不可諫,,weighted_channels_untyped_fallback
+王翰,赋得明星玉女坛，送廉察尉华阴,发地削成五千仞,0.828108,二,華山,削成五千仞,《山海經》：「華山削成而四方，高五千仞，其廣千里。」,weighted_channels_with_book_title_stats
+高適,同群公题郑少府田家（此公昔任白马尉，今寄住滑台）,昔为南昌尉,0.827856,二十六,吏隱,南昌尉,梅福子真為南昌尉，時人謂之神仙之吏。,weighted_channels
+窦牟,送刘公达判官赴天德军幕,特建青油幕,0.827767,二十一,幕府,青油幕,,weighted_channels_untyped_fallback
+孟浩然,送洗然弟进士举,以吾一日长,0.827759,二十一,爭長,一日,子曰：以吾一日長乎爾？,weighted_channels
+白居易,长斋月满寄思黯,一日不见如三月,0.827696,十,相思,一日不見。,如三月兮，如三秋兮。,headword_note_combined
+白居易,读史五首,鬼得而诛之,0.82728,二十七,報怨,鬼誅,鬼得而誅。,headword_note_combined
+白居易,醉后走笔酬刘五主簿长句之赠兼简张大贾二十四先辈昆季,三年不鸣鸣必大,0.827014,二十九,鳥,三年不鳴,齊威王曰：「有大鳥止于王庭，三年不飛，飛則沖天；三年不鳴，鳴則驚人。,weighted_channels
+杜牧,雪中书怀,如日月縆升,0.826663,一,日,如日之升,,weighted_channels_untyped_fallback
+李白,赠从弟南平太守之遥二首,梦得池塘生春草,0.826599,三十,草,池塘生春草,,weighted_channels_untyped_fallback
+李白,见野草中有曰白头翁者,亦有白头翁,0.826365,七,戲謔,白頭翁,吳諸葛恪侍權坐，有白頭烏集殿前。恪曰：白頭翁。張昭年老，疑恪戱之。因曰：「恪欺陛下，未有鳥名，白頭翁。請覔白頭母。」恪曰：「鳥有鸎母，請覔鸎父。」相弄謔如此。有司俱不罪。張昭有悟於聴聞。,weighted_channels
+乔知之,长信宫中树,香摇五明扇,0.825738,四,扇,五明扇,崔豹《古今注》曰：「舜廣視聽求賢人，以自輔作五明扇。,weighted_channels_with_book_title_stats
+佚名,郊庙歌辞。后唐宗庙乐舞辞。雍熙舞,百度惟贞,0.825569,十一,帝德,百度惟貞。,,weighted_channels_untyped_fallback
+白居易,酬赵秀才赠新登科诸先辈,君看名在丹台者,0.82539,二十六,道士,名在丹臺,紫陽真人，周季通入蒙山，遇羨門子。再拜乞長生訣，羨門子曰：「名在丹臺、玉室中，何憂不仙？,weighted_channels
+储光羲,过新丰道中,雷雨杳冥冥,0.824909,一,雷,雷雨晦冥,《漢書》：劉媼息大澤中，夢與神遇，是時，雷雨晦冥。太公往視之，則見蛟龍在上。已而，有娠，而產高祖。,weighted_channels_with_book_title_stats
+顾况,上古之什补亡训传十三章。十月之郊一章,梦人占之,0.824515,七,夢,夢中占夢,《莊子》：長吾子謂瞿鵲曰：夢飲酒者，旦而哭泣，夢哭泣者，旦而田獵，方其夢也。不知其夢中之占又夢焉。無異寤也。固乃非常人之所知。,weighted_channels_with_book_title_stats
+崔道融,春晚,三月寒食时,0.824139,一,寒食,一月寒食,《後漢》周舉遷并州刺史，太原舊俗，以介子推焚骸一月，斷火舉移書於子推廟。云寒食一月，老小不堪，今則三日而巳。,weighted_channels_cross_reference
+王绩,在京思故园见乡人问,老去不知回,0.823531,十七,老,不知老之將至,,weighted_channels_untyped_fallback
+刘禹锡,酬喜相遇同州与乐天替代,新交竹使符,0.823516,四,印綬,竹使符,竹符五枚，長五寸。錐畫篆書，一至五，以代古之珪璋。,weighted_channels
+佚名,郊庙歌辞。祀九宫贵神乐章。肃和,穆穆皇皇,0.822856,九,言語,穆穆皇皇,言語之美。,weighted_channels
+杨衡,赋得夜雨滴空阶送魏秀才,况有人如玉,0.822758,六,美人,如玉,有佳人，美者顔如玉,weighted_channels_cross_reference
+张谓,同孙构免官后登蓟楼,功成不相让,0.822471,十四,讓功,功成不居,,weighted_channels_untyped_fallback
+杜甫,佳人,绝代有佳人,0.822086,七,美婦人,絶代,李延年歌曰：北方有佳人，絶代而獨立。一顧傾人城，再顧傾人國。,weighted_channels
+谢良辅,忆长安。正月,烧灯青玉五枝,0.821447,四,燈燭,青玉五枝燈,《西京雜記》曰：「高祖入咸陽宮，秦有青玉五枝燈，高七尺五寸，有蟠螭口銜燈，然之，鱗甲皆動，煥炳列星。,weighted_channels_with_book_title_stats
+莫宣卿,答问读书居,井汲冽寒泉,0.821402,三,井,冽井,井冽寒泉。,headword_note_combined
+王维,冬日游览,关东出函谷,0.821402,二十九,雞,出函谷,孟嘗君有難，夜半出函谷關。馮煖詐作雞鳴，乃得出。,weighted_channels
+张绍,冲佑观,四海九州,0.821273,二,海,四海,七戎六蠻，九夷八狄。形類不同。摠而言，謂之四海，言皆近於海。,weighted_channels
+杜牧,题桐叶,一丸五色成虚语,0.820676,二十六,丹藥,一丸五色,《古詩》云：與我一丸藥，光輝有五色。服之四五日，身體生羽翼。,weighted_channels_with_book_title_stats
+崔融,哭蒋詹事俨,汲黯言当直,0.820234,八 （凡七十九門 內二十六門附）,直,汲黯正直,黯，字長孺。,weighted_channels
+杜甫,遣兴五首,上疏乞骸骨,0.819828,十七,致仕,乞骸骨,,weighted_channels_untyped_fallback
+王昌龄,宿京江口期刘昚虚不至,明发不能寐,0.819588,七,寢,明發不寐,《詩》。,weighted_channels_with_book_title_stats
+白居易,八骏图－戒奇物、惩佚游也,不知房星之精下为怪,0.818888,二十九,馬,房精,房星之精。,headword_note_combined
+杜甫,秋日荆南述怀三十韵,冥心若死灰,0.81869,一,灰,心若死灰,《莊子》。,book_title_stats_only_weighted_fallback
+苏颋,饯荆州崔司马,星拱北辰居,0.818246,一,星,拱北辰,《語》：為政以德，譬如北辰。居其所，眾星拱之。,weighted_channels_with_book_title_stats
+张籍,妾薄命,人生各各有所欲,0.818214,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+张籍,杂曲歌辞。妾薄命,人生各各有所欲,0.818214,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。周宗庙乐舞辞。禋顺,旨酒既献,0.81821,十一,御宴,我肴,旨酒,parallel_note_focused
+李峤,马武骑挽歌二首,五日皆休沐,0.81795,十二,休假,漢律：五日一沐。,漢律吏得五日下言休息以洗沐也,weighted_channels
+张祜,送杨秀才游蜀,旧俗巴渝舞,0.817598,十八,舞,賨俗巴渝之舞,《晉．禮樂志》：巴郡善歌舞，高祖愛其舞，詔樂府習之，今巴渝舞是也。,weighted_channels_with_book_title_stats
+李舒,郊庙歌辞。让皇帝庙乐章。迎神,爰命有司,0.817422,一,秋,命有司嘗,嘗群神也。,weighted_channels
+李纾,让皇帝庙乐章。迎神,爰命有司,0.817422,一,秋,命有司嘗,嘗群神也。,weighted_channels
+韦应物,郡内闲居,腰悬竹使符,0.817344,四,印綬,竹使符,竹符五枚，長五寸。錐畫篆書，一至五，以代古之珪璋。,weighted_channels
+杜甫,奉送魏六丈佑少府之交广,季子黑貂敝,0.816814,四,裘,黑貂敝,《史記》：蘇秦說相李兌，兌遺之以黑貂裘。蘇秦游秦，秦不能用，於是貂裘敝。,weighted_channels_with_book_title_stats
+刘禹锡,酬郑州权舍人见寄二十韵,学堂青玉案,0.816354,四,案,青玉案,《張平子詩》曰：「美人贈我錦繡段，何以報之青玉案。」,weighted_channels_with_book_title_stats
+孟浩然,洗然弟竹亭,达是酒中趣,0.816314,五,酒,酒中趣,孟嘉嗜酒，人問之，荅曰：君未知酒中趣。,weighted_channels
+李白,白纻辞三首,美人一笑千黄金,0.81618,七,笑,一笑千金,,weighted_channels_untyped_fallback
+李白,舞曲歌辞。白纻辞,美人一笑千黄金,0.81618,七,笑,一笑千金,,weighted_channels_untyped_fallback
+贯休,问岳禅师疾,而有斯疾,0.816062,九,疾,伯牛有疾,子曰：斯人也。而有斯疾也。,weighted_channels
+杨收,嘲吴人观者,若是升堂者,0.815976,三,堂,升堂,希升堂者，又曰：升我堂矣。,weighted_channels
+许浑,王居士,即应生羽翼,0.815972,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+权德舆,奉和新卜城南郊居得与卫右丞邻舍，因赋诗寄赠,盛德必有邻,0.815955,三,宅,必有鄰,《論語》：德不孤，必有鄰。,weighted_channels_with_book_title_stats
+刘复,送王伦（一作汪伦）,四方各有志,0.815906,七,志節,子有四方之志,,weighted_channels_untyped_fallback
+聂夷中,胡无人行,更愿生羽翼,0.815883,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+聂夷中,相和歌辞。胡无人行,更愿生羽翼,0.815883,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+元稹,说剑,剑可剸犀兕,0.815678,四,劍,剸犀,,weighted_channels_untyped_fallback
+周昙,前汉门。僭号公孙述,方知在德不在险,0.815338,十六,險固,在德不在險,《史記》魏武侯曰：「美哉山河之固，此乃魏之寶也。」吳起曰：「在德不在險，昔三苗左洞庭，右彭𧋠，德義不修而禹滅之；夏桀之居，左濟河，右太菙，侯闕在其南，羊腸在其北，脩政不仁，而湯放之；殷紂之國，左孟門，右太行，常山在其北，太行經其南，不修德政，武王殺之。由此言之，在德不在險。」武侯曰：「善哉。」,weighted_channels_with_book_title_stats
+赵光逢,梁郊祀乐章。庆平,帝德惟馨,0.814667,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。梁郊祀乐章。庆平,帝德惟馨,0.814667,八 （凡七十九門 內二十六門附）,德,明德惟馨,,weighted_channels_untyped_fallback
+罗隐,蟋蟀诗,不冠不緌,0.81413,六,嫂叔,不冠,《後漢》：馬援敬事寡嫂，不冠不入廬。,weighted_channels_with_book_title_stats
+高適,宓公琴台诗三首,昔人不忍欺,0.814125,二十一,縣令,人不忍欺,宓子賤為政，人不忍欺。餘見“彊毅”門注。,weighted_channels_cross_reference
+元稹,庙之神,复再拜而再祝,0.813781,七,拜揖,再拜,,weighted_channels_untyped_fallback
+岑参,梁园歌，送河南王说判官,君不见梁孝王修竹园,0.813624,三十,竹,梁園,梁孝王有脩竹園。,headword_note_combined
+陆龟蒙,开元寺楼看雨联句,轻明白羽扇,0.81344,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+白居易,早夏游宴,已动蒲葵扇,0.813438,八 （凡七十九門 內二十六門附）,賢,蒲葵扇,謝安風流，時多愛慕故人，罷中宿縣，還有蒲葵扇五萬，安取中者題之，京師慕效，競市價數倍。,weighted_channels
+李翱,断僧通状,父母不拜,0.813436,十,父友,不拜,魏常林伯槐，年七歲。父黨造之，問伯槐曰：「伯先在否，何不拜？」林曰：「對子字，父何拜之有？」,weighted_channels
+杜甫,盐井（盐井在成州长道县，有盐官故城）,君子慎止足,0.813231,七,貴,止足,《史》：蔡澤曰：「吳君白起、越大夫種，功成不去禍，至范蠡知止，足超然避世。長為陶，朱公孰見與禍至，忍不能離，疑不能決云云。應侯曰：「吾聞欲而不知止，則失其所欲也。」,weighted_channels_with_book_title_stats
+李乂,高安公主挽歌二首,楼台十二重,0.81301,三,樓,十二重之制,《鮑昭詩》：鳳樓十二重。,weighted_channels_with_book_title_stats
+李隆基,赐诸州刺史以题座右,讼狱必以情,0.812973,十三,推斷獄,察必以情。,小大之獄，雖不能察必以情。,weighted_channels
+白居易,会昌元年春五绝句。赠举之仆射,一月三回寒食会,0.812959,一,寒食,一月寒食,《後漢》周舉遷并州刺史，太原舊俗，以介子推焚骸一月，斷火舉移書於子推廟。云寒食一月，老小不堪，今則三日而巳。,weighted_channels_cross_reference
+元稹,赛神,主人不堪命,0.81274,二十四,土功,人不堪命,,weighted_channels_untyped_fallback
+杜甫,阆州东楼筵，奉送十一舅往青城县，得昏字,今我送舅氏,0.812589,二,渭,送舅,《詩》：我送舅氏，曰至渭陽。,weighted_channels_with_book_title_stats
+杜甫,又示宗武,试吟青玉案,0.812357,四,案,青玉案,《張平子詩》曰：「美人贈我錦繡段，何以報之青玉案。」,weighted_channels_with_book_title_stats
+崔翘,奉和圣制答张说南出雀鼠谷,日月照天文,0.812034,九,書,天文,日月之文。,headword_note_combined
+高適,东平路中遇大水,天灾自古有,0.811795,九,疾,天有災癘,,weighted_channels_untyped_fallback
+宋之问,明河篇,倬彼昭回如练白,0.811016,一,天,倬彼昭回,,weighted_channels_untyped_fallback
+李白,越中秋怀,亦可乘扁舟,0.810559,三,舟,扁舟,句踐既滅吳，范蠡乘扁舟泛五湖。,weighted_channels
+杜甫,上韦左相二十韵（见素）,岂是池中物,0.810553,二十九,龍,非池中物,《吳志》：龍非池中物，雨必飛去。,weighted_channels_with_book_title_stats
+李白,夏日山中,懒摇白羽扇,0.810172,四,扇,白羽扇,裴啟《語林》曰：「諸葛武侯，持白羽扇，指麾三軍。,weighted_channels_with_book_title_stats
+吕温,登少陵原望秦中诸川太原王至德妙用有水术因用感叹,吾人得其宗,0.809515,六,宗族,吾宗,《傳》曰：晉吾宗也。豈害我哉！,weighted_channels_with_book_title_stats
+李白,赠韦秘书子春二首,披云睹青天,0.809511,一,霧,睹青天,徐幹《中論》曰：「文王遇姜公於渭陽，執竿而釣，文王得之，若披雲見日月，如開霧睹青天。」,weighted_channels_with_book_title_stats
+徐夤,逐臭苍蝇,饱食嗟来未胜饥,0.809215,二十三,人餓,嗟來之食,齊大飢，黔敖為食於路，以待餓者而食之。有餓者蒙袂輯屢，貿貿然來。黔敖左奉食，右執飲曰：「嗟來食。揚其目而視之曰：「子惟不食嗟來之食，以至於斯也。從而謝焉，終不食而死。曾子聞之曰：「微與！其嗟也可去其謝也可食。貿貿目不明貌。,weighted_channels
+徐彦伯,拟古三首,含春向我鸣,0.809048,二十九,鳥,懷春向我鳴,,weighted_channels_untyped_fallback
+皮日休,初夏游楞伽精舍,似入青油幕,0.809025,二十一,幕府,青油幕,,weighted_channels_untyped_fallback
+刘长卿,避地江东，留别淮南使院诸公,却使他人得楚弓,0.808989,十六,弓,楚人亡弓楚人得之,,weighted_channels_untyped_fallback
+李白,酬裴侍御对雨感时见赠,申包哭秦庭,0.808931,十五,乞師,哭秦庭,《左傳》：吳入楚，楚申包胥詣秦，乞師，立依庭牆而哭，日夜不絕音，水漿不入口。七日而得兵。,weighted_channels_with_book_title_stats
+李群玉,始忝四座奏状闻荐蒙恩授官旋进歌诗延英宣…二十四韵,伫将告成功,0.80871,十四,功,告厥成功,,weighted_channels_untyped_fallback
+许宣平,庵壁题诗,乐矣不知老,0.808212,十七,老,不知老之將至,,weighted_channels_untyped_fallback
+韦应物,秋夕西斋与僧神静游,正当秋夏交,0.808127,一,伏日,秋夏之交,,weighted_channels_untyped_fallback
+舒道纪,题赤松宫（今兰溪县之赤松山。王初平亦称赤松子）,人皆有兄弟,0.80801,六,兄弟,人兄,教以弟所以敬天下之為人兄也。,weighted_channels
+高適,宋中十首,人皆有兄弟,0.80801,六,兄弟,人兄,教以弟所以敬天下之為人兄也。,weighted_channels
+高適,酬庞十兵曹,自言生羽翼,0.808006,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+张籍,送李司空赴镇襄阳,中外兼权社稷臣,0.80751,二十一,宰相,社稷臣,,weighted_channels_untyped_fallback
+李颀,塞下曲,千骑黑貂裘,0.807484,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+白居易,哭王质夫,重有君子儒,0.807387,二十六,儒教,君子之儒,子謂子夏，曰：「汝為君子儒，無為小人儒。,weighted_channels
+曹邺,去不返,九重十二门,0.807235,三,門戶,九重,《楚辭》曰：「君之門兮！九重。,weighted_channels_with_book_title_stats
+白居易,寓意诗五首,何以示诚信,0.807212,十五,示信,示人以信,,weighted_channels_untyped_fallback
+贯休,循吏曲上王使君,大信不信,0.807036,八 （凡七十九門 內二十六門附）,信,大信不約,,weighted_channels_untyped_fallback
+白居易,江楼夜吟元九律诗，成三十韵,醴泉流出地,0.806912,二,泉源,醴泉,美泉也。水之精也。崑崙山有醴泉，華池君乘土而王，其政太平，則醴泉出湧。乘水而王，其政和平，則醴泉瀌。神靈滋液，百珍實用，則醴泉出。黃帝時，以醴泉為漿。堯之世，德茂清平，則醴泉出。夏后之時，俊乂在官，醴泉出。漢宣帝三年，醴泉流滂，枯槁榮茂禮，天不愛其道，地不愛其寶，則醴泉出也。,weighted_channels
+刘长卿,颍川留别司仓李万,且知投刃皆若虚,0.806776,二十四,市,投刃皆虛,庖丁解牛者，砉然騞然，莫不中音，投刃皆虛。丁曰：臣始解牛之時，所見非牛。三年之後未嘗見全牛也。今臣之刀，十九年所解千牛，而刃無肯綮，若初發硎，以其游刃必有餘地。,weighted_channels
+贯休,赠方干,白日升天路,0.80624,二十六,仙,白日升天,,weighted_channels_untyped_fallback
+李白,月下独酌四首,但得酒中趣,0.8062,五,酒,酒中趣,孟嘉嗜酒，人問之，荅曰：君未知酒中趣。,weighted_channels
+徐夤,喜雨上主人尚书,雨我公田兆岁丰,0.80587,二十三,公田,雨我公田,遂及我私。《詩》。,weighted_channels_with_book_title_stats
+白居易,官俸初罢，亲故见忧，以诗谕之,未至食藜藿,0.805846,五,食,藜藿,《七發》曰：予甘藜藿，未暇此食。,weighted_channels_with_book_title_stats
+拾得,诗,且遭豺狼逐,0.805466,二十九,羊,豺狼逐,《漢書》：譬如使豺狼逐群羊，無畏驅羊攻虎。,weighted_channels_with_book_title_stats
+储光羲,田家杂兴八首,秋至菊花酒,0.805378,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+白居易,丘中有一士二首（命首句为题）,不忍相欺侵,0.805278,二十一,縣令,人不忍欺,宓子賤為政，人不忍欺。餘見“彊毅”門注。,weighted_channels_cross_reference
+白居易,喜雨,人各有所私,0.80518,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。晋昭德成功舞歌。武功舞歌二首,既已櫜弓矢,0.805092,二十五,射,弓矢既調,,weighted_channels_untyped_fallback
+李白,南奔书怀（一作自丹阳南奔道中作。萧士赟云是伪作）,传觞青玉案,0.804832,四,案,青玉案,《張平子詩》曰：「美人贈我錦繡段，何以報之青玉案。」,weighted_channels_with_book_title_stats
+李白,笑歌行（以下二首，苏轼云是伪作）,张仪所以只掉三寸舌,0.804346,九,口齒,張儀掉三寸舌。,,weighted_channels_untyped_fallback
+卢仝,感古四首,所患患不均,0.804,二十二,役使不均,不患寡而患不均,《語》。,book_title_stats_only_weighted_fallback
+贯休,山中作,不论才不才,0.803623,六,父子,才不才,亦各言其子也。,weighted_channels
+许棠,秋日归旧山,行人不愿看,0.803451,十五,行人,行人不使。,今兩國治戎行人不使不可謂整,weighted_channels
+温庭筠,中书令裴公挽歌词二首,萧何社稷臣,0.803389,二十一,宰相,社稷臣,,weighted_channels_untyped_fallback
+徐铉,茱萸诗,长和菊花酒,0.803217,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+吴融,题画柏,未知陵上柏,0.802992,三十,松柏,青陵上柏,,weighted_channels_untyped_fallback
+白居易,骠国乐－欲王化之先迩后远也（贞元十七年来献之）,至尊德广之所及,0.802944,八 （凡七十九門 內二十六門附）,德,德廣所及,,weighted_channels_untyped_fallback
+李嘉祐,春日长安送从弟尉吴县,好是神仙尉,0.802906,二十一,縣尉,仙吏,仙尉。,parallel_note_focused
+杜荀鹤,顾云侍御出二子请诗因遗一绝,想得月中仙桂树,0.802898,三十,桂,月中有仙桂樹一枝,晉郤詵對武帝曰：「臣對策為天下第一，猶桂林一枝也。,weighted_channels
+王昌龄,塞下曲四首,出塞入塞寒,0.802578,十八,笳,出塞入塞,胡笳者，張博望入西域，傳其法於西京，唯得《摩訶兜勤》一曲。李延年因胡曲，更造新聲二十八解，以為武樂，有《出塞》、《入塞》、《楊柳》等十曲。,weighted_channels_with_book_title_stats
+李颀,送皇甫曾游襄阳山水兼谒韦太守,持衡吏部郎,0.80237,二十一,吏部,持衡,,weighted_channels_untyped_fallback
+贺兰进明,行路难五首,叹息青青陵上柏,0.802245,三十,松柏,青陵上柏,,weighted_channels_untyped_fallback
+张蠙,送成州牧,自古有儒流,0.802154,二十六,儒教,儒流,,weighted_channels_untyped_fallback
+程长文,狱中书情上使君（长文为强暴所诬系狱，献诗雪冤）,我心匪石情难转,0.801931,八 （凡七十九門 內二十六門附）,節操,我心匪石,不可轉也,weighted_channels
+刘长卿,九日登李明府北楼,九日登高望,0.801896,一,九月九日,登高,《續齊諧記》：汝南桓景隨費長房遊學，長房謂曰：「九月九日，汝家當有災異，急令家人縫絳囊，盛茱萸，繫臂上，登高飲菊花酒，此禍乃消，景從其言，還家登山，夕還見雞犬，一時暴死。今人九月九日登高是其事。,weighted_channels_with_book_title_stats
+白居易,饱食闲坐,闲坐不下堂,0.80189,三,堂,不下堂,天子不下堂而見諸侯。,weighted_channels
+袁朗,和洗掾登城南坂望京邑,飞雪千里回,0.801805,一,雪,飛雪千里,《楚辭》。,book_title_stats_only_weighted_fallback
+张九龄,奉和圣制途经华山,来此告成功,0.801738,十四,功,告厥成功,,weighted_channels_untyped_fallback
+高適,别孙訢,白马黑貂裘,0.801721,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+高蟾,道中有感,一裘三十年,0.801496,八 （凡七十九門 內二十六門附）,儉,一狐裘三十年,《晏子》。,book_title_stats_only_weighted_fallback
+崔禹锡,奉和圣制送张说巡边,兼以正封疆,0.801294,三,封疆,諸侯正封,封疆有定分也。,weighted_channels
+薛能,又和留山鸡,由来不是池中物,0.801118,二十九,龍,非池中物,《吳志》：龍非池中物，雨必飛去。,weighted_channels_with_book_title_stats
+王维,奉和圣制幸玉真公主山庄因题石壁十韵之作应制,泥灶化丹砂,0.800989,二十六,丹藥,化丹砂,李少君曰：「祠竈丹砂，可化為黃金。,weighted_channels
+李白,忆旧游，寄谯郡元参军,言亦不可尽,0.800832,九,言語,似不能言,,weighted_channels_untyped_fallback
+董思恭,咏日,更也人皆仰,0.800723,一,日,皆仰,人皆仰之。,weighted_channels
+水神,霅溪夜宴诗（诸神命丽玉唱公无渡河歌）,公无渡河兮公竟渡,0.800535,二,津渡,公無渡河,崔豹《古今注》：津吏霍子高見白首，狂夫被髮，提壺亂流而渡，其妻止之，不及，遂溺死。妻乃援箜篌，作《公無渡河》之曲，歌終亦投河而死。,weighted_channels_with_book_title_stats
+王睿,公无渡河,公无渡河兮公竟渡,0.800535,二,津渡,公無渡河,崔豹《古今注》：津吏霍子高見白首，狂夫被髮，提壺亂流而渡，其妻止之，不及，遂溺死。妻乃援箜篌，作《公無渡河》之曲，歌終亦投河而死。,weighted_channels_with_book_title_stats
+张籍,董公诗,朝廷有大事,0.800477,十五,出征,君命大事。,大事，謂軍事。,weighted_channels
+章碣,对月,别有洞天三十六,0.800349,二,洞,三十六,《茅君內傳》：大天之內，有玄中之洞三十六所。第一王屋山之洞：周迴萬里，名曰小有清虛之天。第二委羽之洞：周迴萬里，名曰大有空明之天。第三西域土山之谷：周迴三千里，名曰太玄，摠真之天。第四西方玄三山之谷：周迴千里名曰三玄，極真之天。第五青城之洞：周迴三千里，名曰寶仙，九室之天。第六赤城丹山之洞：周迴三百里，名曰上酒平之天。第七羅浮山之洞：周五百里，名曰朱明，曜真之天。第八曲向山之洞：周一百五十里，名曰金壇華陽之天。第九林屋山之洞：周四百里，名曰左神幽墟之天。第十括蒼之洞：周迴三百里，名曰成德隱玄之天。凡此十洞，皆仙人靈真之陰天，內宮也，其八海之中，崑崙、蓬萊、方丈、瀛洲、滄波、白山，八停之神山，山皆有洞宮，或有方千里、五百里，非名小天之例，不在三十六天之洞數也。五嶽及名山洞室，或三十里、二十里、十里，難並合神仙之言，又非小天之數，嶽洞萬里，其岱宗山之洞，周三千里，名曰三宮空洞之天。羅酆山之洞：周一萬五千里，名曰北帝死生之天，皆死神所治五帝之官考，謫之府也。鬼神所冶，又有二十八小洞，天之陰宮，或地官所在者，不能一一記其洞山之名，略摽其大者耳。其餘有六洞：天陰宮山，皆夷狄異類，鬼所不治，犬戎鳥獸蠻裸，夷之種也。匈奴之天下：北戎之善山，南越之拘屢是也。句曲山洞宮之中：本有仙人郭四，朝者治其宮，亦司三官。領羅酆師。晨候四朝，燕人也。兄弟四人得道，四朝是長兄也。,weighted_channels_with_book_title_stats
+贯休,怀张为、周朴,心与人不同,0.800312,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+陆龟蒙,袭美先辈以龟蒙所献五百言既蒙见和复示荣唱…用伸酬谢,纵有月旦评,0.800289,十二,藻鑑,月旦評,後漢許劭與兄靖俱有高名共覈論鄉黨人物每月更品題由是汝南俗有月旦評也,weighted_channels
+刘长卿,奉陪使君西庭送淮西魏判官（得山字）,多在八公山,0.800237,一,三月三,八公山,宋武帝三月三日，登八公山。劉安故臺曰：「城郭如匹帛之，繞叢花也。」,weighted_channels
+张贲,和袭美寒夜见访,仿效从它折角巾,0.799777,八 （凡七十九門 內二十六門附）,賢,折角巾,郭林宗行，遇雨，巾一角墊士，人故折其巾角以效之。,weighted_channels
+陶翰,赠房侍御（时房公在新安）,君其振羽翮,0.799606,二十九,鷺,值其振羽,《詩》：振鷺于飛，坎其擊鼓。宛丘之下，無冬無夏，值其振羽，《詩》所以剌陳幽王，游蕩無度。名爾雅一名，春鉏也。,weighted_channels_with_book_title_stats
+李白,杂曲歌辞。行路难三首,曳裾王门不称情,0.799422,十,賔主,曳裾王門,鄒陽上書曰：臣飾庸陋，則何王之門，不可曳長裾乎？,weighted_channels_with_book_title_stats
+李白,行路难三首,曳裾王门不称情,0.799422,十,賔主,曳裾王門,鄒陽上書曰：臣飾庸陋，則何王之門，不可曳長裾乎？,weighted_channels_with_book_title_stats
+萧颖士,菊荣一篇五章,彼美淑人,0.79934,六,美人,彼美,淑姬。見上注。,weighted_channels_cross_reference
+贾岛,马戴居华山因寄,孤高不可言,0.799146,二十九,鶴,孤高,,weighted_channels_untyped_fallback
+杜甫,舟中苦热遣怀，奉呈阳中丞通简台省诸公,吾非丈夫特,0.799052,八 （凡七十九門 內二十六門附）,勇,非夫,非丈夫也,weighted_channels
+孟浩然,自浔阳泛舟经明海,因之泛五湖,0.799025,二,湖,其浸五湖,《周禮》：楊州其浸五湖。注云：太湖方五百里，故曰五湖。,weighted_channels_with_book_title_stats
+元稹,有鸟二十章（庚寅）,啄腐吞腥笑雕鹗,0.798938,二十六,養生,啄腐吞腥,,weighted_channels_untyped_fallback
+杜甫,七月三日亭午已后较热退晚加小凉稳睡…呈元二十一曹长,本是池中物,0.798746,二十九,龍,非池中物,《吳志》：龍非池中物，雨必飛去。,weighted_channels_with_book_title_stats
+上官仪,从驾闾山咏马,徒嗟塞上翁,0.798693,二十九,馬,塞上翁,失馬人弔曰：「未必不為福。俄爾馬引塞外馬歸。,weighted_channels
+元结,二风诗。治风诗五篇。至劳,不盈不延,0.798462,三,倉廩,不盈,《管子》曰：「不務地利，則倉不盈。」,weighted_channels_with_book_title_stats
+杜甫,丹青引，赠曹将军霸,富贵于我如浮云,0.797966,八 （凡七十九門 內二十六門附）,義,不義,而富，且貴於我如浮雲。,headword_note_combined
+白居易,赠友五首,量入以为出,0.797948,三,倉廩,量入,《禮》曰：「五穀皆入，必量於歲之杪。,weighted_channels_with_book_title_stats
+韩翃,家兄自山南罢归献诗叙事,唯奉一囊钱,0.797826,四,囊橐,一囊錢,後漢《趙壹詩》曰：「文籍徒滿腹，不如一囊錢。」,weighted_channels_with_book_title_stats
+刘长卿,寻洪尊师不遇,何处化丹砂,0.797804,二十六,丹藥,化丹砂,李少君曰：「祠竈丹砂，可化為黃金。,weighted_channels
+李德裕,近于伊川卜山居将命者画图而至欣然有感…青田胎化鹤,惭逾六百石,0.797556,七,貴,不過六百石,《後漢》：邴渙兄曼容亦飬志，自修為官，不過六百石，輒自免去。,weighted_channels_with_book_title_stats
+唐彦谦,和陶渊明贫士诗七首,人生各有志,0.797548,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+孟云卿,今别离（一作别离曲）,人生各有志,0.797548,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+皮日休,太湖诗。入林屋洞,窃之不加刑,0.797338,二十八,竊盜,不竊,子曰：苟子之不欲，雖賞之不竊。,weighted_channels
+皎然,浮云三章,集于扶桑,0.797204,三十,桑,扶桑,,weighted_channels_untyped_fallback
+贯休,大蜀皇帝寿春节进尧铭舜颂二首。尧铭,承天眷命,0.797149,二十,郊天,皇天眷命,,weighted_channels_untyped_fallback
+权德舆,唐开州文编远寄新赋累惠良药咏叹仰佩…聊书还答,君为太史氏,0.796954,二十一,司天,太史,《周官》太史掌建邦之六典。,weighted_channels_with_book_title_stats
+杜甫,牵牛织女,戒之在至公,0.79682,七,冨,戒之在得,,weighted_channels_untyped_fallback
+李白,送张秀才谒高中丞,玉石俱烧焚,0.796491,二,石,與石俱焚,《書》云：「火炎岷岡，玉石俱焚。」,weighted_channels_with_book_title_stats
+贯休,商山道者,五千言外得玄音,0.796324,二十六,道士,五千玄言,,weighted_channels_untyped_fallback
+白居易,小池二首,坐把蒲葵扇,0.796148,八 （凡七十九門 內二十六門附）,賢,蒲葵扇,謝安風流，時多愛慕故人，罷中宿縣，還有蒲葵扇五萬，安取中者題之，京師慕效，競市價數倍。,weighted_channels
+元稹,江边四十韵（此后并江陵时作）,豺狼逐野麃,0.795999,二十九,羊,豺狼逐,《漢書》：譬如使豺狼逐群羊，無畏驅羊攻虎。,weighted_channels_with_book_title_stats
+尚颜,怀智栖上人,不同游子暮何之,0.795626,十,行旅,遊子暮何之,《李陵詩》。,weighted_channels_with_book_title_stats
+杨凝式,雪晴,春来冰未泮,0.79549,一,冰,未泮,迨冰未泮。,weighted_channels
+元稹,江陵三梦,纵我生羽翼,0.795482,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+张九龄,和姚令公从幸温汤喜雪,千金狐白裘,0.795478,四,裘,千金狐腋,王褒《講德論》曰：「千金之裘，非一狐之腋。,weighted_channels_with_book_title_stats
+刘太真,顾十二况左迁过韦苏州房杭州韦睦州…以继三君子之风焉,远思不可收,0.79526,十,相思,我思不遠,,weighted_channels_untyped_fallback
+孟云卿,杂曲歌辞。生别离,但恐不出门,0.795241,十二,休假,不欲出。,文帝幸鄧通，通亦愿謹不外交。雖賜洗沐，不欲出也。,weighted_channels
+舒元舆,八月五日中部官舍读唐历天宝已来追怆故事,神仙不可求,0.79497,二十六,求仙,神仙,,weighted_channels_untyped_fallback
+杨炯,和酬虢州李司法,菊花宜泛酒,0.794711,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+白居易,和微之诗二十三首。和李势女,人各有一死,0.794316,十九,死,死生有命,,weighted_channels_untyped_fallback
+韦应物,雪中闻李儋过门不访，聊以寄赠,已想人如玉,0.794144,六,美人,如玉,有佳人，美者顔如玉,weighted_channels_cross_reference
+张籍,祭退之,坐令其子拜,0.793992,十,擇交,拜其子,《後漢》：侯霸欲友王丹，霸子見丹，下車拜丹，荅拜。霸子曰：「大人方願交歡，奈何？拜小子。丹曰：「君房有是言。」丹未之許也。,weighted_channels_with_book_title_stats
+孟郊,吊元鲁山,造次不可升,0.793854,一,天,不可階而升,,weighted_channels_untyped_fallback
+贯休,上缙云段使君,清畏人知人尽知,0.793643,十二,清亷,畏人知,胡質為徐州子威自京師歸省驅驢毎舍於驢取樵見父十餘日告歸父賜絹一匹威跪曰大人清亷安得此絹質曰吾俸祿之餘後威為徐州晉武帝問卿清何如父清對曰臣不如父父清畏人知臣清畏人不知,weighted_channels
+权德舆,送张曹长工部大夫奉使西番,奉使小司空,0.793601,二十一,工部,侍郎,小司空,headword_note_combined
+白居易,郊陶潜体诗十六首,有功不自伐,0.79332,十二,公政,不伐功,魏陳羣言劉兾於太祖太祖赦之冀徳羣羣曰議刑為國非為私且明主之意吾何知其弘博不伐功如此也,weighted_channels
+白居易,答卜者,问我决疑不,0.792964,九,相,决疑,《歸田賦》曰：感蔡子之慷慨，從唐生以決疑。」,weighted_channels_with_book_title_stats
+戴叔伦,送汶水王明府,知君不下堂,0.792859,三,堂,不下堂,天子不下堂而見諸侯。,weighted_channels
+方干,送汶上王明府之任,知君不下堂,0.792859,三,堂,不下堂,天子不下堂而見諸侯。,weighted_channels
+周昙,春秋战国门。再吟,曲突徙薪不谓贤,0.792662,一,火,曲突徙薪,無恩澤焦頭爛額為上客，漢時，人有上書論徐福先言霍氏也。,weighted_channels
+皎然,郑容全成蛟形木机歌,还应不是池中物,0.79251,二十九,龍,非池中物,《吳志》：龍非池中物，雨必飛去。,weighted_channels_with_book_title_stats
+萧颖士,江有枫一篇十章,君子居焉,0.792501,七,貧,君子居,《易》以俟命。,book_title_stats_only_weighted_fallback
+杜甫,遣兴五首,嵇康不得死,0.79238,二十七,神異,嵇康受廣陵散,嵇康夜宿華亭，彈琴。夜半有客詣之。共談音律，辭致清辯。謂《廣陵散》，調絕倫，遂授康。仍誓不得傳，康撰高士傳，云云。,weighted_channels_with_book_title_stats
+郎士元,题刘相公三湘图,飞鸟不知倦,0.792346,二十九,鳥,鳥倦飛而知還,,weighted_channels_untyped_fallback
+朱庆馀,送邵州林使君,州人应为立生祠,0.792311,二十一,刺史,立祠,《晉》：祖逖為豫州，行恩德。及卒，人為立祠。,weighted_channels_with_book_title_stats
+曹邺,秦后作,大道不居谦,0.7921,二十六,道教,大道不器,,weighted_channels_untyped_fallback
+李峤,凤,五色成文章,0.792063,四,筆硯,五色,江淹夢授五色筆，由是文藻由新。,weighted_channels
+皮日休,太湖诗。以毛公泉一瓶献上谏议因寄,服之生羽翼,0.792002,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+元结,二风诗。乱风诗五篇。至惑,如何不思,0.791712,十,相思,如之何勿思,,weighted_channels_untyped_fallback
+宋华,蝉鸣一篇五章,君子至止,0.791688,八 （凡七十九門 內二十六門附）,谦讓,君子有終,,weighted_channels_untyped_fallback
+李贺,荣华乐（一作东洛梁家谣）,白璧一双,0.791538,二,河,白璧,《河圖》：趙王政以白璧沉于河。,weighted_channels_with_book_title_stats
+元稹,寄刘颇二首,平生嗜酒颠狂甚,0.791403,五,酒,酒狂,蓋寛饒曰：無多酌我，我則酒狂。,weighted_channels
+贯休,白雪曲,却思食藜藿,0.791159,五,食,藜藿,《七發》曰：予甘藜藿，未暇此食。,weighted_channels_with_book_title_stats
+贯休,琴曲歌辞。白雪歌,却思食藜藿,0.791159,五,食,藜藿,《七發》曰：予甘藜藿，未暇此食。,weighted_channels_with_book_title_stats
+吴少微,哭富嘉谟,於戏社稷臣,0.79074,二十一,宰相,社稷臣,,weighted_channels_untyped_fallback
+白居易,感事,常期生羽翼,0.790618,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+雍陶,和孙明府怀旧山,五柳先生本在山,0.790246,三十,柳,五柳先生,《晉書》：陶潛，字淵明。為彭澤令**：宅邊栽五株柳，自號為「五柳先生」。,weighted_channels_with_book_title_stats
+佚名,郊庙歌辞。享太庙乐章。景云舞,明德配天,0.79003,二十,郊天,明德動天,,weighted_channels_untyped_fallback
+高適,秦中送李九赴越,愁霖不可向,0.789152,一,雨,愁霖,《文選》：愁霖貫秋序。,weighted_channels_with_book_title_stats
+杜甫,遣兴五首,膏以明自煎,0.789149,七,徵聘,以明自煎,龔勝被王莽徵，不食而死，有老父來弔，甚哀曰：「膏以明自煎龔生，競夭天年，非吾徒也。遂出，不知其姓名。,weighted_channels
+李白,商山四皓,倏起生羽翼,0.788961,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+白居易,咏兴五首。四月池水满,只是池中物,0.788855,二十九,龍,非池中物,《吳志》：龍非池中物，雨必飛去。,weighted_channels_with_book_title_stats
+元稹,忆云之,各在四方表,0.788821,二十一,河南尹,四方表則,《晉》：庾純，字謀甫，為河南尹，為四方之表則。,weighted_channels_with_book_title_stats
+司空曙,九日送人,值节佩茱萸,0.788508,一,九月九日,佩茱萸,《西京雜記》：武帝宮人賈蘭佩茱萸，食餌飲菊花酒。,weighted_channels_with_book_title_stats
+不详,佚句,知其不寿,0.788483,十九,死,知命之不長,《傳》。,book_title_stats_only_weighted_fallback
+贯休,续姚梁公坐右铭,成人之美,0.788311,十一,諫諍,成人之美。,君子。,headword_note_combined
+韩愈,晚秋郾城夜会联句,谈笑青油幕,0.78829,二十一,幕府,青油幕,,weighted_channels_untyped_fallback
+邵谒,送徐群宰望江,知食不知耕,0.788251,二十三,勤勞,不知稼穡之艱難,,weighted_channels_untyped_fallback
+姚合,寄狄拾遗，时为魏州从事,岂要生羽翼,0.788209,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+李端,春游乐,倡女蒲葵扇,0.788044,八 （凡七十九門 內二十六門附）,賢,蒲葵扇,謝安風流，時多愛慕故人，罷中宿縣，還有蒲葵扇五萬，安取中者題之，京師慕效，競市價數倍。,weighted_channels
+李端,杂曲歌辞。春游乐二首,倡女蒲葵扇,0.788044,八 （凡七十九門 內二十六門附）,賢,蒲葵扇,謝安風流，時多愛慕故人，罷中宿縣，還有蒲葵扇五萬，安取中者題之，京師慕效，競市價數倍。,weighted_channels
+顾况,春游曲二首,倡女蒲葵扇,0.788044,八 （凡七十九門 內二十六門附）,賢,蒲葵扇,謝安風流，時多愛慕故人，罷中宿縣，還有蒲葵扇五萬，安取中者題之，京師慕效，競市價數倍。,weighted_channels
+白居易,文柏床,陵上有老柏,0.787744,三十,松柏,青陵上柏,,weighted_channels_untyped_fallback
+权德舆,奉酬从兄南仲见示十九韵,诗成三百篇,0.787714,二十六,《詩》,刪《詩》為三百篇,,weighted_channels_untyped_fallback
+于邺,书情,已过千里程,0.787376,十,奉使,千里程,《漢舊》：儀奉璽書，使者乗馳傳，日夜千里為程也。,weighted_channels_with_book_title_stats
+贯休,轻薄篇二首,其名不彰,0.787329,十四,嗣立,不隕其名,,weighted_channels_untyped_fallback
+贯休,杂曲歌辞。轻薄篇二首,其名不彰,0.787329,十四,嗣立,不隕其名,,weighted_channels_untyped_fallback
+许浑,题灞西骆隐士,却笑南昌尉,0.787302,二十六,吏隱,南昌尉,梅福子真為南昌尉，時人謂之神仙之吏。,weighted_channels
+白居易,饮后戏示弟子,弟子服劳止,0.787276,八 （凡七十九門 內二十六門附）,勤,服其勞,有事弟子服其勞。,weighted_channels
+元结,补乐歌十首。九渊,孰知其然,0.787192,一,天,焉知,裨灶焉知天道。,weighted_channels
+元结,补乐歌十首。咸池,孰知其然,0.787192,一,天,焉知,裨灶焉知天道。,weighted_channels
+白居易,不能忘情吟,我姑酌彼金罍,0.787113,五,酒,酌彼金罍,《詩》,weighted_channels_with_book_title_stats
+杜审言,泛舟送郑卿入京,恩追社稷臣,0.787016,八 （凡七十九門 內二十六門附）,忠,社稷臣,漢文帝目送絳侯曰：「社稷臣袁盎。」曰：「功臣非社稷臣也。社稷臣者，主存與存，主亡與亡。諸呂用事，絳侯為太尉，本柄不正，共誅諸呂，適會功成。故曰功臣。」,weighted_channels
+杜甫,秦州见敕目薛三璩授司议郎毕四曜除监察与二…凡三十韵,俱议哭秦庭,0.787011,十五,乞師,哭秦庭,《左傳》：吳入楚，楚申包胥詣秦，乞師，立依庭牆而哭，日夜不絕音，水漿不入口。七日而得兵。,weighted_channels_with_book_title_stats
+徐铉,病题二首,进与时乖不知退,0.786947,七,貴,知進而不知退,,weighted_channels_untyped_fallback
+张九龄,郢城西北有大古冢数十观其封域多是楚时诸王…尽知之,嘉名有所在,0.786926,七,名字,嘉名,《楚詞》：朕皇考曰伯庸，肇錫予以嘉名。,weighted_channels_with_book_title_stats
+李贺,赠陈商,太华五千仞,0.786811,二,華山,削成五千仞,《山海經》：「華山削成而四方，高五千仞，其廣千里。」,weighted_channels_with_book_title_stats
+白居易,齐物二首,长短各有分,0.786721,二,珪璋,長短之制以辨上下,別貴賤。《周禮》。,book_title_stats_only_weighted_fallback
+宋之问,药,君臣有礼焉,0.7867,十一,君臣,天子無客禮，莫敢為主焉。君適其臣升自阼階，不敢有其室也。,《禮》。,book_title_stats_only_weighted_fallback
+李商隐,少年,灞陵夜猎随田窦,0.786496,十三,犯夜,灞亭夜獵,李廣將軍夜獵還灞陵亭長呵叱之,weighted_channels
+杜甫,自京赴奉先县咏怀五百字,恐触天柱折,0.786468,三,屋室,天柱折,《列子》曰：「共工氏與顓頊爭帝位，頭觸不周山，崩天柱折。,weighted_channels_with_book_title_stats
+张九龄,奉和圣制早渡蒲津关,还闻股肱郡,0.786157,二十一,刺史,股肱之郡,季布為河東守上曰：「河東，吾股肱之郡也。」,weighted_channels
+李白,之广陵宿常二南郭幽居,有如桃花源,0.786152,七,隠逸,避秦,桃源。,parallel_note_focused
+李白,秋日炼药院镊白发，赠元六兄林宗,瓶冰知天寒,0.786147,一,冰,瓶中冰,《淮南子》曰：「見一葉之落，知歲之將暮，睹瓶中之冰，知天下之寒，以近論遠。」,weighted_channels_with_book_title_stats
+白居易,咏怀,五十不为夭,0.786086,十七,老,五十不致毀,謂居喪也。,weighted_channels
+白居易,西掖早秋直夜书意（自此后中书舍人时作）,五十不为夭,0.786086,十七,老,五十不致毀,謂居喪也。,weighted_channels
+鲍溶,忆旧游,仙人居其中,0.786059,二,崑崙山,仙人居,《葛仙公傳》：崑崙山一曰玄圃臺，一曰積瑤房，一曰閬風臺，一曰華蓋，一曰天柱，皆仙人所居。,weighted_channels_with_book_title_stats
+李白,秋浦歌十七首,泪满黑貂裘,0.785909,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+韩翃,赠王逖,暂试黑貂裘,0.785726,四,衣服,黑貂裘,《史記》：蘇秦說趙相李兌，兌送以黑貂之裘。,weighted_channels_with_book_title_stats
+元稹,感梦（梦故兵部裴尚书相公）,我亦不能语,0.785553,九,言語,似不能言,,weighted_channels_untyped_fallback
+唐怡,述怀,惟余酒中趣,0.785488,五,酒,酒中趣,孟嘉嗜酒，人問之，荅曰：君未知酒中趣。,weighted_channels
+王建,相和歌辞。公无渡河,公无渡河公自为,0.785383,二,津渡,公無渡河,崔豹《古今注》：津吏霍子高見白首，狂夫被髮，提壺亂流而渡，其妻止之，不及，遂溺死。妻乃援箜篌，作《公無渡河》之曲，歌終亦投河而死。,weighted_channels_with_book_title_stats
+吕岩,七言,尽知白日升天去,0.785375,二十六,仙,白日升天,,weighted_channels_untyped_fallback
+不详,佚句,（《苦寒》见《事文类聚》）,0.785044,一,寒,苦寒行,魏武《苦寒行》曰：「人馬同時飢，擔囊行取薪，斧冰持作糜。」糜，粥也。,weighted_channels_with_book_title_stats
+郭震,子夜四时歌六首。秋歌,延年菊花酒,0.784792,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+郭元振,相和歌辞。子夜四时歌六首。秋歌二首,延年菊花酒,0.784792,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+白居易,齿落辞,功成者去,0.784755,十四,讓功,功成不居,,weighted_channels_untyped_fallback
+白居易,涧底松－念寒俊也,下者未必愚,0.78474,二十八,愚,下愚,子曰：唯上智與下愚不移。,weighted_channels
+张易之,奉和圣制夏日游石淙山,青鸟白云王母使,0.78459,二十六,仙,青鳥,西王母使。,headword_note_combined
+元结,二风诗。乱风诗五篇。至虐,可以化人,0.784333,八 （凡七十九門 內二十六門附）,儉,化人,毛玠，字孝先。居顯位，常布衣蔬食，以儉率人由是天下莫不以廉節自勵，雖貴寵，輿服不敢過度，太祖歎之。又許劭子將為郡功曹人，皆改操飾行，袁紹豪俠，罷濮陽令，車徒甚盛入境，豈可使子將見耶？遂乘車歸家。,weighted_channels
+王昌龄,箜篌引,鬼神不得知其由,0.784233,二十七,鬼神,神有不通,《楚辭》。,book_title_stats_only_weighted_fallback
+张说,奉和圣制赐诸州刺史应制以题坐右,朝廷多秀士,0.784194,十二,舉選,進士秀才。,考課令進士試時務䇿五條帖大經通四其䇿文辭順序義理愜當并帖經文過者為通帖策全通為甲第諸秀才試方䇿五條文理俱髙者為上上文髙理平理高文平為上中云云,weighted_channels
+李商隐,拟意,濯锦桃花水,0.784135,二,河,桃花水,《溝洫志》：河決而桃花水漾溢。注云：三月水漲名。,weighted_channels_with_book_title_stats
+李白,西岳云台歌，送丹丘子,千年一清圣人在,0.784045,二,河,見一清於千年,《運命論》曰：「黃河清，聖人出。」《拾遺記》曰：「河千年一清，聖王之大瑞。」,weighted_channels_with_book_title_stats
+司空图,歌者十二首,五柳先生自识微,0.783981,三十,柳,五柳先生,《晉書》：陶潛，字淵明。為彭澤令**：宅邊栽五株柳，自號為「五柳先生」。,weighted_channels_with_book_title_stats
+李德裕,重忆山居六首。巫山石,此中多怪石,0.783899,二,石,怪石,《禹貢》曰：「鈆松，怪石。」注：怪異好貌。,weighted_channels_with_book_title_stats
+贺知章,题袁氏别业（一作偶游主人园）,囊中自有钱,0.783688,二,錢,囊中,,weighted_channels_untyped_fallback
+鲍溶,悼豆卢策先辈,嵩高山西北,0.783654,二,嵩山,嵩高,《白虎通》曰：「中央之嶽，獨加高字者何？」中史，四方之中，可高。故曰嵩高山。,weighted_channels_with_book_title_stats
+李白,赠别从甥高五,不如一玙璠,0.783617,五,酒,有酒,如澠,parallel_note_focused
+翁承赞,晨兴,旅食甘藜藿,0.783571,五,食,藜藿,《七發》曰：予甘藜藿，未暇此食。,weighted_channels_with_book_title_stats
+宋之问,绿竹引,何可一日无此君,0.783447,三十,竹,此君,何可一日無此君。,weighted_channels
+宋之问,琴曲歌辞。绿竹引,何可一日无此君,0.783447,三十,竹,此君,何可一日無此君。,weighted_channels
+杜甫,南征,春岸桃花水,0.783435,二,河,桃花水,《溝洫志》：河決而桃花水漾溢。注云：三月水漲名。,weighted_channels_with_book_title_stats
+韦应物,谢栎阳令归西郊，赠别诸友生,何由生羽翼,0.783316,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+元稹,和乐天赠樊著作,不敢措舌端,0.783241,九,言語,舌端,君子避辯士之舌端。,weighted_channels
+陆龟蒙,奉和袭美太湖诗二十首。投龙潭,民皆受其赐,0.783061,十四,賞賜,受賜。,民到于今受其賜。,headword_note_combined
+皮日休,三羞诗三首,食之以侯食,0.782865,五,賜食,與之禮食,《傳》：晉侯以魏絳，為能以刑佐民，與之禮食，使佐新軍。《注》：《禮》食以表其功。,weighted_channels_with_book_title_stats
+贯休,长持经僧,一食而已,0.782596,二十,俎,一食之人，一人徹,為聚食也。,weighted_channels
+孟郊,杂怨（一作古乐府杂怨）,狂夫不可从,0.782253,八 （凡七十九門 內二十六門附）,傲慢,狂夫,,weighted_channels_untyped_fallback
+孟郊,相和歌辞。杂怨三首,狂夫不可从,0.782253,八 （凡七十九門 內二十六門附）,傲慢,狂夫,,weighted_channels_untyped_fallback
+齐己,寄诗友,天地有万物,0.782247,一,地,資生萬物。,,weighted_channels_untyped_fallback
+白居易,双石,人皆有所好,0.782151,五,嗜好,是人之所欲,,weighted_channels_untyped_fallback
+白居易,杜陵叟－伤农夫之困也,九月降霜秋早寒,0.782119,一,秋,霜降,,weighted_channels_untyped_fallback
+佚名,郊庙歌辞。享太庙乐章。永和,是用孝享,0.782102,二十,蒸嘗,吉蠲為饎，是用孝享,,weighted_channels_untyped_fallback
+魏徵,享太庙乐章。永和,是用孝享,0.782102,二十,蒸嘗,吉蠲為饎，是用孝享,,weighted_channels_untyped_fallback
+白居易,重修香山寺毕，题二十二韵以纪之,先宜知止足,0.782092,七,貴,止足,《史》：蔡澤曰：「吳君白起、越大夫種，功成不去禍，至范蠡知止，足超然避世。長為陶，朱公孰見與禍至，忍不能離，疑不能決云云。應侯曰：「吾聞欲而不知止，則失其所欲也。」,weighted_channels_with_book_title_stats
+陈陶,续古二十九首,智不及鶢鶋,0.781996,八 （凡七十九門 內二十六門附）,智,智不足稱,陽處父不役其身，其智不足稱。,weighted_channels
+刘禹锡,同乐天和微之深春二十首（同用家花车斜四韵）,醉酒一千日,0.781825,五,酒,千日,中山有酒飲者，一醉千日。玄石飲之，一千日乃醒。,weighted_channels
+贯休,送少年禅师二首,岂愁游子暮何之,0.781785,十,行旅,遊子暮何之,《李陵詩》。,weighted_channels_with_book_title_stats
+卢照邻,赤谷安禅师塔,从吾所好云,0.781675,二十六,師,從吾所好,既多知十之賢**：博我以文，必重在三之義。,weighted_channels
+李白,杂歌谣辞。箜篌谣,汉谣一斗粟,0.78167,二十四,舂,斗粟,漢文殺淮南王人歌曰：一斗粟尚可舂，兄弟二人不相容。,weighted_channels
+李白,箜篌谣,汉谣一斗粟,0.78167,二十四,舂,斗粟,漢文殺淮南王人歌曰：一斗粟尚可舂，兄弟二人不相容。,weighted_channels
+李白,感时留别从兄徐王延年、从弟延陵,出入畏人知,0.781554,二十一,刺史,畏人知,《晉》：胡質為荊州，子威自京師省父，辭歸洛陽。父賜絹一匹威跪問曰：「安得此絹？」質曰：「吾俸料之餘。」後威為徐州，帝問曰：「卿清何如父？」對曰：「臣不如父，臣清畏人不知，父清畏人知。,weighted_channels_with_book_title_stats
+白居易,对酒,知得不知失,0.781519,二十六,齊物,得失,肩吾，謂孫叔敖曰：「子三為令尹，不榮華。三去無憂色。令視皋門栩栩然，子之用獨奈何？敖曰：「吾以來可卻，去不可止，得失非我，在彼乎？在我乎，注，云：曠然無係，玄同彼我，何暇至乎人貴人賤也。,weighted_channels
+卢纶,和李中丞酬万年房署少府过汾州景云观…李早年同居此观,低回青油幕,0.781432,二十一,幕府,青油幕,,weighted_channels_untyped_fallback
+白居易,裴侍中晋公以集贤林亭即事诗三十六韵见赠…以伸酬献,维云社稷臣,0.781414,二十一,宰相,社稷臣,,weighted_channels_untyped_fallback
+长须国驸马,长须国驸马咏妻,未必不如惣有,0.7814,二十三,粟,有秕,若苗之有秀，若粟之有秕。,weighted_channels
+不详,佚句,闲云生不雨,0.781267,一,雲,密雲不雨,,weighted_channels_untyped_fallback
+孟郊,品松,所以不敢慵,0.781184,八 （凡七十九門 內二十六門附）,怠惰,不敢怠荒。,,weighted_channels_untyped_fallback
+白居易,自到郡斋仅经旬日方专公务未及宴游偷闲…仍呈吴中诸客,补拙莫如勤,0.78115,十二,勤官,非徳莫如勤,,weighted_channels_untyped_fallback
+王维,奉和圣制御春明楼临右相园亭赋乐贤诗应制,褰旒明四目,0.781045,九,視,四目,舜明四目，而天下治。,weighted_channels
+白居易,和微之春日投简阳明洞天五十韵,牛斗天垂象,0.780702,一,星,天垂象,,weighted_channels_untyped_fallback
+刘禹锡,谢窦员外旬休早凉见示诗（奉书报诘朝有宴）,三爵油油忘是非,0.780701,五,酒,三爵油油,《禮》：君子之飲酒也，一爵而色洒如也。《注》云：肅敬貌。洒音廯。二爵而言言斯。《注》云：和敬貌。言音銀。三爵而油油以退。《注》云：悅敬貌。盖美君子之德也。,weighted_channels_with_book_title_stats
+徐铉,抛球乐,一笑千场醉,0.780688,七,笑,一笑千金,,weighted_channels_untyped_fallback
+徐铉,抛球乐辞二首,一笑千场醉,0.780688,七,笑,一笑千金,,weighted_channels_untyped_fallback
+崔融,吴中好风景,无因生羽翼,0.780549,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+李乂,次苏州,无因生羽翼,0.780549,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+顾况,山居即事,崦合桃花水,0.7805,二,河,桃花水,《溝洫志》：河決而桃花水漾溢。注云：三月水漲名。,weighted_channels_with_book_title_stats
+顾况,句,崦合桃花水,0.7805,二,河,桃花水,《溝洫志》：河決而桃花水漾溢。注云：三月水漲名。,weighted_channels_with_book_title_stats
+卢照邻,赠益府群官,智者不我邀,0.780294,八 （凡七十九門 內二十六門附）,智,智者,不失人。《語》。,book_title_stats_only_weighted_fallback
+佚名,郊庙歌辞。梁太庙乐舞辞。昭德舞,奄有四海,0.780274,二,海,四海,七戎六蠻，九夷八狄。形類不同。摠而言，謂之四海，言皆近於海。,weighted_channels
+张说,游洞庭湖湘,何人生羽翼,0.780147,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+陆龟蒙,以竹夹膝寄赠袭美,持赠敢齐青玉案,0.780053,四,案,青玉案,《張平子詩》曰：「美人贈我錦繡段，何以報之青玉案。」,weighted_channels_with_book_title_stats
+白居易,海漫漫－戒求仙也,人传中有三神山,0.779836,二十六,仙,三神山,《史記》：蓬萊、方丈、瀛洲三神山，在渤海中，莫有至者。諸仙人不死藥在焉，禽獸盡白，黃金白銀為宮闕，欲到，則風引船而去，終莫能至也。,weighted_channels_with_book_title_stats
+魏徵,享太庙乐章。长发舞,就日重光,0.779794,一,日,重光,崔豹《古今注》曰：「漢明帝作太子樂，八歌四章，以贊太子，一曰日重光。」,weighted_channels_with_book_title_stats
+佚名,郊庙歌辞。享太庙乐章。长发舞,就日重光,0.779794,一,日,重光,崔豹《古今注》曰：「漢明帝作太子樂，八歌四章，以贊太子，一曰日重光。」,weighted_channels_with_book_title_stats
+白居易,旱热二首,赫日吁可畏,0.779773,二十八,恐懼,吁可畏也,,weighted_channels_untyped_fallback
+李白,别韦少府,赠我以微言,0.779712,八 （凡七十九門 內二十六門附）,規誨,贈人以言,《史》：孔子去周，老子送之曰：「仁者贈人以言，夫聰明深察，近於死者議人也。博辨宏達危身也。」,weighted_channels_with_book_title_stats
+綦毋潜,送宋秀才,长剑倚天外,0.779495,四,劍,倚天,《宋玉賦》：長劍耿介倚天外。,weighted_channels_with_book_title_stats
+畅当,九日陪皇甫使君泛江宴赤岸亭,同倾菊花酒,0.77928,三十,菊,菊花酒,費長房謂桓景：「九月九日可登高，飲菊花酒以消災。,weighted_channels
+张籍,不食姑（一作赠山中女道士）,要问西王母,0.779223,一,七月七日,西王母,漢武故事，七月七日，上於承華殿，齋正中有一青鳥從西方來，集殿前，上問東方朔，朔曰：「西王母欲來。」有頃，王母至，有二青鳥侍王母傍。,weighted_channels
+卢仝,冬行三首,利命子罕言,0.779221,二十四,利,子罕言利,,weighted_channels_untyped_fallback
+李白,玉真公主别馆苦雨，赠卫尉张卿二首,藜藿不满眼,0.779194,五,食,藜藿,《七發》曰：予甘藜藿，未暇此食。,weighted_channels_with_book_title_stats
+储光羲,咏山泉（一作题山中流泉）,山中有流水,0.779092,七,夢,山上有水,魏鄧艾伐蜀夢坐山上有水流問袁卲卲曰山上有水蹇蹇利西南往有功也不利東圵其道窮也往必克蜀其不還者乎,weighted_channels
+张为,秋醉歌,玉楼十二重,0.778845,三,樓,十二重之制,《鮑昭詩》：鳳樓十二重。,weighted_channels_with_book_title_stats
+白居易,山中独吟,人各有一癖,0.778777,八 （凡七十九門 內二十六門附）,性情,人各有心,,weighted_channels_untyped_fallback
+鲍溶,经秦皇墓,死者不复知,0.778518,十九,死,死者不可復生,《史》：淳于緹縈上書，請以身贖父之罪。,weighted_channels_with_book_title_stats
+独孤及,丙戌岁正月出洛阳书怀,来酬主人恩,0.778401,十,逆旅,主人之恩。,,weighted_channels_untyped_fallback
+刘禹锡,奉和司空裴相公中书即事通简旧僚之作,时看赤白囊,0.778391,十六,簿籍,赤白囊,邴吉馭吏，習知邊事警急。因驛騎持赤白囊書，馭吏因刺取探候之，知虜入雲中代郡，因白告也。,weighted_channels
+高適,咏史,应怜范叔寒,0.778274,四,衣服,范叔寒,見上綈袍注。,weighted_channels_cross_reference
+白居易,念金銮子二首,八十有六旬,0.778241,十七,老,八十九十曰耄,耄，昏忘也。,weighted_channels
+刘禹锡,酬令狐相公见寄,千里相思难命驾,0.777799,十,相思,千里命駕,嵇呂事，見上注。,weighted_channels_cross_reference
+贯休,寄杜使君,有时作章句,0.777352,九,言語,有章,出言有章。,weighted_channels
+白居易,玩松竹二首,乃知性相近,0.77729,十二,教化,性相近習相逺,言人同稟五常之性趨舍相近但所習漸積而相去逺也,weighted_channels
+苏颋,送光禄姚卿还都,九卿朝已入,0.777248,七,貴,四至,九卿。,parallel_note_focused
+王昌龄,代扶风主人答,天子初封禅,0.777241,二,泰山,封禪,《白虎通》曰：「王者受命，必封太山之高，以報天禪，梁甫之趾，以報地。」《史記》：「自古封太山禪。梁甫者有七十二君。」,weighted_channels_with_book_title_stats
+皮日休,二游诗。任诗,闲日不整冠,0.777139,三十,李,不整冠,《古詩》：君子防未然，李下不整冠。,weighted_channels_with_book_title_stats
+张说,入海二首,海上三神山,0.776952,二十六,仙,三神山,《史記》：蓬萊、方丈、瀛洲三神山，在渤海中，莫有至者。諸仙人不死藥在焉，禽獸盡白，黃金白銀為宮闕，欲到，則風引船而去，終莫能至也。,weighted_channels_with_book_title_stats
+鲍防,元日早朝行,天何言哉乐无穷,0.77689,九,言語,天何言哉,子曰予欲無言。,weighted_channels
+王勃,观内怀仙,自能成羽翼,0.776838,二十六,仙,生羽翼,,weighted_channels_untyped_fallback
+白居易,答刘禹锡白太守行,吏满六百石,0.776734,十二,棄官,不過六百石,漢邴漢兄子曼容為官不過六百石輙自免去,weighted_channels
+白居易,和答诗十首。和松树,八月白露降,0.776567,一,露,立秋後五日白露降,,weighted_channels_untyped_fallback
+白居易,南湖晚秋,八月白露降,0.776567,一,露,立秋後五日白露降,,weighted_channels_untyped_fallback
+贾至,闲居秋怀，寄阳翟陆赞府、封丘高少府,八月白露降,0.776567,一,露,立秋後五日白露降,,weighted_channels_untyped_fallback
+白居易,浔阳三题。庐山桂,得入上林园,0.776548,十一,苑囿,上林。,漢舊儀上林苑中廣長二百里離宮七十所皆容千乗萬騎,weighted_channels
+萧颖士,江有归舟三章,扬于王庭,0.776433,十一,對見,揚于王庭。,,weighted_channels_untyped_fallback
+徐铉,寄萧给事（萧江西致仕）,危言危行古时人,0.776411,八 （凡七十九門 內二十六門附）,行,危言危行,,weighted_channels_untyped_fallback
+杜甫,往在,相贺以成功,0.776296,十四,功,告厥成功,,weighted_channels_untyped_fallback
+白居易,初除户曹，喜而言志,不以我为贪,0.776219,十,贈貺,不以為貪,管仲與鮑叔分財。管仲毎多取之，管仲曰：「鮑子不以為貪，知我家貧也。」,weighted_channels
+刘长卿,送薛据宰涉县（自永乐主簿陟状，寻复选受此官）,蒲鞭使人畏,0.775934,十二,寛不按吏,蒲鞭。,劉寛宇文饒吏人有過以蒲鞭罰之以示辱也,weighted_channels
+李端,送王羽林往秦州,汉日羽林郎,0.775631,二十一,羽林將軍,羽林,漢置羽林郎。,weighted_channels
+常理,杂曲歌辞。古离别,君御狐白裘,0.775562,四,裘,狐白,秦囚孟嘗君，君說幸姬求解。姬曰：願得君狐白裘，直千金，以獻昭王矣。有客能狗盜，入秦宮藏內，盜得狐白裘，獻之，遂得歸齊矣。,weighted_channels
+常理,古别离,君御狐白裘,0.775562,四,裘,狐白,秦囚孟嘗君，君說幸姬求解。姬曰：願得君狐白裘，直千金，以獻昭王矣。有客能狗盜，入秦宮藏內，盜得狐白裘，獻之，遂得歸齊矣。,weighted_channels
+贺兰进明,杂曲歌辞。行路难五首,自叹青青陵上柏,0.775547,三十,松柏,青陵上柏,,weighted_channels_untyped_fallback
+白居易,题西亭,鼓瑟吹笙竽,0.775544,十八,竽,笙竽俱唱,《文選》。,book_title_stats_only_weighted_fallback
+李中,送仙客,危言危行是男儿,0.775488,八 （凡七十九門 內二十六門附）,行,危言危行,,weighted_channels_untyped_fallback
+苏颋,夜宴安乐公主新宅,车如流水马如龙,0.77529,二十九,馬,如龍,《漢書》曰：車如流水馬如龍。,weighted_channels_with_book_title_stats
+李煜,忆江南,车如流水马如龙,0.77529,二十九,馬,如龍,《漢書》曰：車如流水馬如龍。,weighted_channels_with_book_title_stats
+皇甫冉,适荆州途次南阳赠何明府,一遇朗陵公,0.775256,六,内外兄弟,朗陵公,《文選詩序》曰：「朗陵公何敬祖？余之從外兄也。」,weighted_channels_with_book_title_stats
+李白,赠参寥子,长揖不受官,0.775247,七,拜揖,不拜揖客,,weighted_channels_untyped_fallback
+权德舆,奉和圣制丰年多庆九日示怀,乐和天地同,0.775208,十八,樂,大樂與天地同和。,,weighted_channels_untyped_fallback
+陆龟蒙,奉和袭美太湖诗二十首。明月湾,但当乘扁舟,0.775062,三,舟,扁舟,句踐既滅吳，范蠡乘扁舟泛五湖。,weighted_channels
+权德舆,严陵钓台下作,天子不得臣,0.774808,二十八,叛亂,臣而不臣,,weighted_channels_untyped_fallback
+杜甫,成都府,自古有羁旅,0.774635,十,行旅,羈旅,《西征賦》云：遠行有羇旅之情,weighted_channels_with_book_title_stats
+李白,王右军,笔精妙入神,0.774623,九,圖畫,手擇,筆精。,parallel_note_focused
+元稹,旱灾自咎，贻七县宰同州时,竭力不敢惮,0.774518,十二,勤官,不敢怠遑,,weighted_channels_untyped_fallback

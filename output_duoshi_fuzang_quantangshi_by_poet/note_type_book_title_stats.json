@@ -1,0 +1,16 @@
+{
+  "leishu_rows_with_extracted_book_titles": 8347,
+  "unique_leishu_book_titles": 1224,
+  "unique_poem_annotation_books": 0,
+  "unique_poem_common_source_books": 0,
+  "unique_poem_fragment_common_books": 0,
+  "overlap_with_poem_annotations_count": 0,
+  "overlap_with_poem_common_sources_count": 0,
+  "overlap_with_poem_fragment_common_sources_count": 0,
+  "rows_with_poem_annotation_overlap": 0,
+  "rows_with_poem_common_source_overlap": 0,
+  "overlap_with_poem_annotations_sample": [],
+  "overlap_with_poem_common_sources_sample": [],
+  "overlap_with_poem_fragment_common_sources_sample": [],
+  "comparison_scope": "仅作出處典籍类条目的书名层独立统计，不并入普通语义相似度矩阵。"
+}
