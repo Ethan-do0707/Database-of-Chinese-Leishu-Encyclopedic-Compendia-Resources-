@@ -120,7 +120,8 @@ Xiamen University Malaysia
 **登记证号：** SZ2026340008309.4  
 **登记机构：** 广东省知识产权保护中心  
 **登记日期：** 2026年9月11日
-<img width="500" height="699" alt="image" src="https://github.com/user-attachments/assets/08dc4932-41fa-41b6-8ea4-be4dc9bf48f8" />
+
+<img width="500" height="702" alt="image" src="https://github.com/user-attachments/assets/6f8d2d7a-a228-4484-9751-4c581e125956" />
 
 
 ## 📌 Status | 项目状态
