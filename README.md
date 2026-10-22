@@ -123,6 +123,11 @@ Xiamen University Malaysia
 
 <img width="500" height="702" alt="image" src="https://github.com/user-attachments/assets/6f8d2d7a-a228-4484-9751-4c581e125956" />
 
+## 📜 Data Intellectual Property Statement | 数据知识产权声明
+
+The subject of this registration is the **Structured Knowledge Dataset of Ancient Chinese Leishu (中国古代类书结构化知识数据集)**, developed through the processing and structuring of historical texts. This registration does not constitute a claim of exclusive rights over the original contents of the classical Chinese texts themselves.
+
+本次登记的对象为经加工整理形成的“中国古代类书结构化知识数据集“”，并非对相关古籍原始文献内容本身主张排他性权利。
 
 ## 📌 Status | 项目状态
 
