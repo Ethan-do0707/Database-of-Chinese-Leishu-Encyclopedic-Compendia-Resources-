@@ -111,6 +111,18 @@ Xiamen University Malaysia
 
 ---
 
+## 📜 Data Intellectual Property Registration | 数据知识产权登记
+
+**Registration No.:** SZ2026340008309.4  
+**Registration Authority:** Guangdong Intellectual Property Protection Center  
+**Registration Date:** September 11, 2026  
+
+**登记证号：** SZ2026340008309.4  
+**登记机构：** 广东省知识产权保护中心  
+**登记日期：** 2026年9月11日
+<img width="500" height="699" alt="image" src="https://github.com/user-attachments/assets/08dc4932-41fa-41b6-8ea4-be4dc9bf48f8" />
+
+
 ## 📌 Status | 项目状态
 
 🚧 Under active development  
